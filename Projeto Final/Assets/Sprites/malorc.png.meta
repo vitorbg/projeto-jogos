@@ -1,0 +1,3569 @@
+fileFormatVersion: 2
+guid: 46b42cfb6092a9245a132490bff94f59
+timeCreated: 1455319557
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: malorc_0
+    21300002: malorc_1
+    21300004: malorc_2
+    21300006: malorc_3
+    21300008: malorc_4
+    21300010: malorc_5
+    21300012: malorc_6
+    21300014: malorc_7
+    21300016: malorc_8
+    21300018: malorc_9
+    21300020: malorc_10
+    21300022: malorc_11
+    21300024: malorc_12
+    21300026: malorc_13
+    21300028: malorc_14
+    21300030: malorc_15
+    21300032: malorc_16
+    21300034: malorc_17
+    21300036: malorc_18
+    21300038: malorc_19
+    21300040: malorc_20
+    21300042: malorc_21
+    21300044: malorc_22
+    21300046: malorc_23
+    21300048: malorc_24
+    21300050: malorc_25
+    21300052: malorc_26
+    21300054: malorc_27
+    21300056: malorc_28
+    21300058: malorc_29
+    21300060: malorc_30
+    21300062: malorc_31
+    21300064: malorc_32
+    21300066: malorc_33
+    21300068: malorc_34
+    21300070: malorc_35
+    21300072: malorc_36
+    21300074: malorc_37
+    21300076: malorc_38
+    21300078: malorc_39
+    21300080: malorc_40
+    21300082: malorc_41
+    21300084: malorc_42
+    21300086: malorc_43
+    21300088: malorc_44
+    21300090: malorc_45
+    21300092: malorc_46
+    21300094: malorc_47
+    21300096: malorc_48
+    21300098: malorc_49
+    21300100: malorc_50
+    21300102: malorc_51
+    21300104: malorc_52
+    21300106: malorc_53
+    21300108: malorc_54
+    21300110: malorc_55
+    21300112: malorc_56
+    21300114: malorc_57
+    21300116: malorc_58
+    21300118: malorc_59
+    21300120: malorc_60
+    21300122: malorc_61
+    21300124: malorc_62
+    21300126: malorc_63
+    21300128: malorc_64
+    21300130: malorc_65
+    21300132: malorc_66
+    21300134: malorc_67
+    21300136: malorc_68
+    21300138: malorc_69
+    21300140: malorc_70
+    21300142: malorc_71
+    21300144: malorc_72
+    21300146: malorc_73
+    21300148: malorc_74
+    21300150: malorc_75
+    21300152: malorc_76
+    21300154: malorc_77
+    21300156: malorc_78
+    21300158: malorc_79
+    21300160: malorc_80
+    21300162: malorc_81
+    21300164: malorc_82
+    21300166: malorc_83
+    21300168: malorc_84
+    21300170: malorc_85
+    21300172: malorc_86
+    21300174: malorc_87
+    21300176: malorc_88
+    21300178: malorc_89
+    21300180: malorc_90
+    21300182: malorc_91
+    21300184: malorc_92
+    21300186: malorc_93
+    21300188: malorc_94
+    21300190: malorc_95
+    21300192: malorc_96
+    21300194: malorc_97
+    21300196: malorc_98
+    21300198: malorc_99
+    21300200: malorc_100
+    21300202: malorc_101
+    21300204: malorc_102
+    21300206: malorc_103
+    21300208: malorc_104
+    21300210: malorc_105
+    21300212: malorc_106
+    21300214: malorc_107
+    21300216: malorc_108
+    21300218: malorc_109
+    21300220: malorc_110
+    21300222: malorc_111
+    21300224: malorc_112
+    21300226: malorc_113
+    21300228: malorc_114
+    21300230: malorc_115
+    21300232: malorc_116
+    21300234: malorc_117
+    21300236: malorc_118
+    21300238: malorc_119
+    21300240: malorc_120
+    21300242: malorc_121
+    21300244: malorc_122
+    21300246: malorc_123
+    21300248: malorc_124
+    21300250: malorc_125
+    21300252: malorc_126
+    21300254: malorc_127
+    21300256: malorc_128
+    21300258: malorc_129
+    21300260: malorc_130
+    21300262: malorc_131
+    21300264: malorc_132
+    21300266: malorc_133
+    21300268: malorc_134
+    21300270: malorc_135
+    21300272: malorc_136
+    21300274: malorc_137
+    21300276: malorc_138
+    21300278: malorc_139
+    21300280: malorc_140
+    21300282: malorc_141
+    21300284: malorc_142
+    21300286: malorc_143
+    21300288: malorc_144
+    21300290: malorc_145
+    21300292: malorc_146
+    21300294: malorc_147
+    21300296: malorc_148
+    21300298: malorc_149
+    21300300: malorc_150
+    21300302: malorc_151
+    21300304: malorc_152
+    21300306: malorc_153
+    21300308: malorc_154
+    21300310: malorc_155
+    21300312: malorc_156
+    21300314: malorc_157
+    21300316: malorc_158
+    21300318: malorc_159
+    21300320: malorc_160
+    21300322: malorc_161
+    21300324: malorc_162
+    21300326: malorc_163
+    21300328: malorc_164
+    21300330: malorc_165
+    21300332: malorc_166
+    21300334: malorc_167
+    21300336: malorc_168
+    21300338: malorc_169
+    21300340: malorc_170
+    21300342: malorc_171
+    21300344: malorc_172
+    21300346: malorc_173
+    21300348: malorc_174
+    21300350: malorc_175
+    21300352: malorc_176
+    21300354: malorc_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: malorc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -17, y: -5}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -29}
+        - {x: 17, y: 5}
+        - {x: 14, y: 15}
+    - name: malorc_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: -1}
+        - {x: 14, y: 15}
+    - name: malorc_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 12}
+        - {x: 13, y: 15}
+        - {x: -3, y: 15}
+        - {x: -13, y: 14}
+        - {x: -14, y: 11}
+        - {x: -16, y: -1}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -29}
+        - {x: 16, y: -9}
+        - {x: 16, y: -4}
+    - name: malorc_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: -12, y: 15}
+        - {x: -20, y: 2}
+        - {x: -20, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -29}
+        - {x: 20, y: -24}
+        - {x: 20, y: 10}
+    - name: malorc_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 4}
+        - {x: 14, y: 15}
+        - {x: -3, y: 15}
+        - {x: -13, y: 14}
+        - {x: -20, y: 11}
+        - {x: -27, y: 4}
+        - {x: -27, y: -15}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 27, y: -16}
+        - {x: 27, y: 3}
+        - {x: 25, y: 5}
+    - name: malorc_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 15}
+        - {x: -26, y: -6}
+        - {x: -14, y: -28}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -29}
+        - {x: 26, y: -8}
+        - {x: 26, y: 15}
+    - name: malorc_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: -12, y: 15}
+        - {x: -20, y: 2}
+        - {x: -20, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -29}
+        - {x: 20, y: -24}
+        - {x: 20, y: 10}
+    - name: malorc_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -13, y: 11}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -22}
+        - {x: 13, y: 13}
+        - {x: 7, y: 14}
+    - name: malorc_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 11}
+        - {x: -13, y: -31}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -29}
+        - {x: 14, y: -16}
+        - {x: 14, y: 5}
+        - {x: 13, y: 12}
+    - name: malorc_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -30}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 14}
+        - {x: -13, y: 14}
+    - name: malorc_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -31}
+        - {x: -8, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -29}
+        - {x: 16, y: -17}
+        - {x: 16, y: -2}
+    - name: malorc_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -7, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -21}
+        - {x: -15, y: -29}
+        - {x: -8, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -31}
+        - {x: 21, y: -7}
+        - {x: 21, y: 1}
+        - {x: 9, y: 13}
+    - name: malorc_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14}
+        - {x: -16, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -4}
+        - {x: 21, y: 10}
+        - {x: 15, y: 14}
+    - name: malorc_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -31}
+        - {x: -7, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -29}
+        - {x: 18, y: -19}
+        - {x: 18, y: 5}
+    - name: malorc_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: -2}
+        - {x: 14, y: 17}
+    - name: malorc_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: -1}
+        - {x: 14, y: 17}
+    - name: malorc_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 8}
+        - {x: 15, y: 17}
+    - name: malorc_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -13, y: 16}
+        - {x: -20, y: 4}
+        - {x: -20, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: -2}
+        - {x: 14, y: 17}
+    - name: malorc_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17}
+        - {x: -11, y: 17}
+        - {x: -13, y: 16}
+        - {x: -14, y: 13}
+        - {x: -24, y: 5}
+        - {x: -27, y: 3}
+        - {x: -27, y: -15}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 18, y: -32}
+        - {x: 27, y: -6}
+        - {x: 27, y: 13}
+    - name: malorc_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 17}
+        - {x: -26, y: 13}
+        - {x: -26, y: -8}
+        - {x: -22, y: -32}
+        - {x: 19, y: -32}
+        - {x: 26, y: -19}
+        - {x: 26, y: 17}
+    - name: malorc_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: -13, y: 17}
+        - {x: -19, y: 2}
+        - {x: -19, y: -32}
+        - {x: 18, y: -32}
+        - {x: 19, y: -20}
+        - {x: 19, y: 2}
+    - name: malorc_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -1}
+        - {x: 10, y: 14}
+    - name: malorc_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 5}
+        - {x: -14, y: -23}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -1}
+        - {x: 8, y: 14}
+    - name: malorc_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -13, y: 14}
+        - {x: -13, y: -31}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -9}
+        - {x: 11, y: 9}
+    - name: malorc_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -16, y: 6}
+        - {x: -16, y: -17}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: -4}
+        - {x: 11, y: 14}
+    - name: malorc_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 12}
+        - {x: -21, y: -1}
+        - {x: -21, y: -11}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -25}
+        - {x: 16, y: 9}
+        - {x: 9, y: 14}
+    - name: malorc_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 14}
+        - {x: -21, y: -19}
+        - {x: -18, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: 12}
+        - {x: 8, y: 14}
+    - name: malorc_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -18, y: 3}
+        - {x: -18, y: -16}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: -2}
+        - {x: 9, y: 14}
+    - name: malorc_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 12}
+        - {x: 16, y: 15}
+    - name: malorc_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -14, y: -30}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 15}
+    - name: malorc_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -13, y: -30}
+        - {x: -4, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: 15}
+    - name: malorc_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -12, y: 14}
+        - {x: -13, y: 11}
+        - {x: -10, y: -25}
+        - {x: -3, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -14}
+        - {x: 15, y: 13}
+        - {x: 14, y: 15}
+    - name: malorc_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -12, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -14}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 14, y: 15}
+    - name: malorc_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -13, y: -26}
+        - {x: -5, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+    - name: malorc_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -12, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -14}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 14, y: 15}
+    - name: malorc_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -12, y: 14}
+        - {x: -13, y: 11}
+        - {x: -10, y: -25}
+        - {x: -3, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -14}
+        - {x: 15, y: 13}
+        - {x: 14, y: 15}
+    - name: malorc_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -13, y: 10}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 2}
+        - {x: 11, y: 14}
+    - name: malorc_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -23}
+        - {x: 14, y: 14}
+    - name: malorc_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 14}
+        - {x: -12, y: 14}
+        - {x: -15, y: 13}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 16, y: -15}
+        - {x: 16, y: 2}
+        - {x: 13, y: 12}
+    - name: malorc_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+    - name: malorc_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -15, y: 10}
+        - {x: -19, y: -7}
+        - {x: -19, y: -17}
+        - {x: -13, y: -28}
+        - {x: -11, y: -30}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 13}
+        - {x: 10, y: 14}
+    - name: malorc_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 13}
+        - {x: -22, y: 0}
+        - {x: -22, y: -21}
+        - {x: -17, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: -4}
+        - {x: 10, y: 14}
+    - name: malorc_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -15, y: 10}
+        - {x: -19, y: -7}
+        - {x: -19, y: -17}
+        - {x: -13, y: -28}
+        - {x: -11, y: -30}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 13}
+        - {x: 10, y: 14}
+    - name: malorc_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+    - name: malorc_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: -2}
+        - {x: 14, y: 17}
+    - name: malorc_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: -15, y: 16}
+        - {x: -15, y: -18}
+        - {x: -14, y: -28}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -30}
+        - {x: 13, y: -26}
+        - {x: 14, y: -17}
+        - {x: 14, y: 17}
+    - name: malorc_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -29}
+        - {x: -6, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 17}
+    - name: malorc_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -16, y: 12}
+        - {x: -16, y: -26}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 17}
+        - {x: -8, y: 17}
+        - {x: -13, y: 16}
+    - name: malorc_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -13, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -29}
+        - {x: -2, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 15}
+        - {x: 13, y: 17}
+    - name: malorc_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -28}
+        - {x: -4, y: -32}
+        - {x: 7, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 17}
+    - name: malorc_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -13, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -29}
+        - {x: -2, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 15}
+        - {x: 13, y: 17}
+    - name: malorc_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -16, y: 17}
+        - {x: -16, y: -26}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -29}
+        - {x: 14, y: -24}
+        - {x: 14, y: 19}
+    - name: malorc_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -2}
+        - {x: 10, y: 14}
+    - name: malorc_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -13, y: 12}
+        - {x: -14, y: -1}
+        - {x: -14, y: -15}
+        - {x: -11, y: -29}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 2}
+        - {x: 13, y: 14}
+    - name: malorc_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -13, y: 12}
+        - {x: -16, y: -6}
+        - {x: -16, y: -17}
+        - {x: -11, y: -29}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -24}
+        - {x: 15, y: -5}
+        - {x: 8, y: 14}
+    - name: malorc_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -17, y: 6}
+        - {x: -17, y: -21}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -2}
+        - {x: 10, y: 14}
+    - name: malorc_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: -30}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -19}
+        - {x: 19, y: -1}
+        - {x: 11, y: 14}
+    - name: malorc_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: -30}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -15}
+        - {x: 22, y: -6}
+        - {x: 11, y: 14}
+    - name: malorc_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: -30}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -19}
+        - {x: 19, y: -1}
+        - {x: 11, y: 14}
+    - name: malorc_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -17, y: 6}
+        - {x: -17, y: -21}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -2}
+        - {x: 10, y: 14}
+    - name: malorc_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -17, y: -4}
+        - {x: -17, y: -31}
+        - {x: 15, y: -31}
+        - {x: 17, y: -28}
+        - {x: 17, y: 6}
+        - {x: 14, y: 16}
+    - name: malorc_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -14, y: 16}
+        - {x: -17, y: -5}
+        - {x: -17, y: -21}
+        - {x: -14, y: -29}
+        - {x: -10, y: -31}
+        - {x: 11, y: -31}
+        - {x: 15, y: -30}
+        - {x: 17, y: -23}
+        - {x: 17, y: -6}
+    - name: malorc_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -17, y: -3}
+        - {x: -17, y: -21}
+        - {x: -10, y: -30}
+        - {x: -4, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 2}
+        - {x: 14, y: 16}
+    - name: malorc_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -17, y: 7}
+        - {x: -17, y: -26}
+        - {x: -11, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 16}
+    - name: malorc_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -17, y: -5}
+        - {x: -17, y: -21}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 2}
+        - {x: 14, y: 16}
+    - name: malorc_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -17, y: -1}
+        - {x: -17, y: -22}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 17, y: -22}
+        - {x: 17, y: -1}
+        - {x: 14, y: 16}
+    - name: malorc_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -17, y: -1}
+        - {x: -17, y: -19}
+        - {x: -11, y: -32}
+        - {x: 0, y: -32}
+        - {x: 15, y: -28}
+        - {x: 17, y: -23}
+        - {x: 17, y: 0}
+        - {x: 15, y: 16}
+    - name: malorc_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -13, y: 15}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 3}
+        - {x: 14, y: 16}
+    - name: malorc_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -17, y: -27}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -20}
+        - {x: 17, y: -6}
+        - {x: 14, y: 16}
+    - name: malorc_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -13, y: 10}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 2}
+        - {x: 11, y: 14}
+    - name: malorc_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: -12, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -29}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -27}
+        - {x: 14, y: 12}
+    - name: malorc_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -14, y: 1}
+        - {x: -14, y: -31}
+        - {x: 8, y: -31}
+        - {x: 13, y: -29}
+        - {x: 13, y: 14}
+    - name: malorc_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -27}
+        - {x: -9, y: -30}
+        - {x: -6, y: -31}
+        - {x: 10, y: -31}
+        - {x: 15, y: -26}
+        - {x: 15, y: 14}
+    - name: malorc_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -11, y: 13}
+        - {x: -12, y: -6}
+        - {x: -12, y: -28}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 16, y: -23}
+        - {x: 16, y: 6}
+        - {x: 15, y: 14}
+    - name: malorc_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 18, y: -23}
+        - {x: 18, y: 1}
+        - {x: 15, y: 14}
+    - name: malorc_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 3}
+        - {x: 15, y: 14}
+    - name: malorc_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -20}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -20}
+        - {x: 15, y: 9}
+        - {x: 13, y: 14}
+    - name: malorc_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 14}
+        - {x: -8, y: 14}
+        - {x: -11, y: 10}
+        - {x: -11, y: -29}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -24}
+        - {x: 14, y: 7}
+        - {x: 13, y: 12}
+    - name: malorc_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: -2}
+        - {x: 14, y: 17}
+    - name: malorc_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 17}
+        - {x: -17, y: 17}
+        - {x: -17, y: -31}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 17, y: -27}
+        - {x: 17, y: 14}
+    - name: malorc_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -17, y: 5}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 9}
+        - {x: 14, y: 17}
+    - name: malorc_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -16, y: 5}
+        - {x: -16, y: -23}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+    - name: malorc_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 11}
+        - {x: 14, y: 17}
+    - name: malorc_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+    - name: malorc_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -13, y: 16}
+        - {x: -17, y: 16}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -28}
+        - {x: 17, y: 10}
+        - {x: 14, y: 17}
+    - name: malorc_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -17, y: 4}
+        - {x: -17, y: -23}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 17}
+    - name: malorc_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: -16, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -29}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -29}
+        - {x: 17, y: -25}
+        - {x: 17, y: 1}
+    - name: malorc_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -2}
+        - {x: 10, y: 14}
+    - name: malorc_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -13, y: 12}
+        - {x: -14, y: 1}
+        - {x: -14, y: -30}
+        - {x: -9, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+    - name: malorc_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -29}
+        - {x: -8, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: -12}
+        - {x: 13, y: 0}
+    - name: malorc_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -15, y: -27}
+        - {x: -6, y: -31}
+        - {x: 11, y: -31}
+        - {x: 11, y: 14}
+    - name: malorc_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: 10}
+        - {x: 7, y: 14}
+    - name: malorc_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -26}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: -8}
+        - {x: 11, y: 14}
+        - {x: -11, y: 14}
+        - {x: -18, y: -2}
+    - name: malorc_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -16, y: 6}
+        - {x: -16, y: -25}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: -1}
+        - {x: 10, y: 14}
+    - name: malorc_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -15, y: 0}
+        - {x: -15, y: -20}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 11, y: -29}
+        - {x: 11, y: 14}
+    - name: malorc_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -21}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -17}
+        - {x: 11, y: 7}
+        - {x: 8, y: 14}
+    - name: malorc_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -17, y: 3}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 1}
+        - {x: 13, y: 13}
+    - name: malorc_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 11}
+        - {x: -12, y: 10}
+        - {x: -15, y: 0}
+        - {x: -15, y: -30}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 11}
+    - name: malorc_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: -10, y: 11}
+        - {x: -15, y: 9}
+        - {x: -15, y: -31}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -5}
+        - {x: 14, y: 8}
+    - name: malorc_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -15, y: 1}
+        - {x: -15, y: -27}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 12}
+        - {x: 16, y: 13}
+    - name: malorc_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 13}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -16, y: -6}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 24, y: -12}
+        - {x: 24, y: 11}
+        - {x: 18, y: 13}
+    - name: malorc_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -16, y: -8}
+        - {x: -16, y: -30}
+        - {x: -10, y: -32}
+        - {x: 17, y: -32}
+        - {x: 27, y: -12}
+        - {x: 27, y: 4}
+        - {x: 18, y: 13}
+    - name: malorc_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -13, y: 11}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -22}
+        - {x: 13, y: 13}
+        - {x: 7, y: 14}
+    - name: malorc_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -26}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 9}
+        - {x: 11, y: 12}
+        - {x: -9, y: 12}
+        - {x: -14, y: 11}
+        - {x: -17, y: -2}
+    - name: malorc_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -15, y: -31}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 11, y: -30}
+        - {x: 14, y: -26}
+        - {x: 14, y: 14}
+    - name: malorc_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -23, y: 3}
+        - {x: -23, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -8}
+        - {x: 8, y: 14}
+    - name: malorc_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 14}
+        - {x: -26, y: 12}
+        - {x: -26, y: -11}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 8}
+        - {x: 8, y: 14}
+    - name: malorc_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -12, y: 14}
+        - {x: -23, y: 6}
+        - {x: -23, y: -18}
+        - {x: -20, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -31}
+        - {x: 14, y: -26}
+        - {x: 14, y: -5}
+    - name: malorc_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: -2}
+        - {x: 14, y: 17}
+    - name: malorc_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+    - name: malorc_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: -5}
+        - {x: 12, y: 15}
+    - name: malorc_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: -1, y: 16}
+        - {x: -11, y: 15}
+        - {x: -13, y: 12}
+        - {x: -14, y: -1}
+        - {x: -14, y: -29}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 15}
+    - name: malorc_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -11, y: 13}
+        - {x: -13, y: -3}
+        - {x: -14, y: -22}
+        - {x: -14, y: -32}
+        - {x: 25, y: -32}
+        - {x: 25, y: 12}
+        - {x: 18, y: 17}
+    - name: malorc_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -15, y: -28}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 28, y: -21}
+        - {x: 28, y: 10}
+        - {x: 25, y: 17}
+    - name: malorc_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -1}
+        - {x: 10, y: 14}
+    - name: malorc_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12}
+        - {x: -9, y: 12}
+        - {x: -12, y: 9}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: -6}
+    - name: malorc_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -14, y: 1}
+        - {x: -14, y: -26}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 0}
+        - {x: 13, y: 14}
+    - name: malorc_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -3}
+        - {x: 13, y: 14}
+        - {x: -4, y: 14}
+        - {x: -10, y: 12}
+        - {x: -15, y: -11}
+        - {x: -15, y: -23}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -30}
+        - {x: 15, y: -28}
+        - {x: 23, y: -16}
+    - name: malorc_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -29}
+        - {x: 26, y: -6}
+        - {x: 26, y: 4}
+    - name: malorc_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 5}
+        - {x: 13, y: 14}
+        - {x: -8, y: 14}
+        - {x: -14, y: -4}
+        - {x: -14, y: -28}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -29}
+        - {x: 23, y: -4}
+        - {x: 23, y: 3}
+    - name: malorc_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 13}
+        - {x: -7, y: 13}
+        - {x: -14, y: 12}
+        - {x: -18, y: 4}
+        - {x: -18, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -18}
+        - {x: 16, y: 4}
+    - name: malorc_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -14, y: 11}
+        - {x: -16, y: 11}
+        - {x: -16, y: -22}
+        - {x: -15, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: -1}
+        - {x: 13, y: 12}
+    - name: malorc_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 11}
+        - {x: -14, y: -18}
+        - {x: -13, y: -27}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 13}
+    - name: malorc_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -15, y: 12}
+        - {x: -15, y: -1}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 13}
+    - name: malorc_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: -11, y: 15}
+        - {x: -15, y: 13}
+        - {x: -15, y: -6}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -30}
+        - {x: 17, y: -21}
+        - {x: 17, y: 0}
+    - name: malorc_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -15, y: 8}
+        - {x: -12, y: -25}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 10}
+        - {x: 14, y: 13}
+    - name: malorc_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -15, y: 12}
+        - {x: -15, y: -1}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -25}
+        - {x: 16, y: 13}
+    - name: malorc_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -15, y: 3}
+        - {x: -12, y: -26}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -12}
+        - {x: 17, y: 12}
+        - {x: 13, y: 13}
+    - name: malorc_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: -4, y: 13}
+        - {x: -14, y: 12}
+        - {x: -15, y: 9}
+        - {x: -15, y: 8}
+        - {x: -9, y: -25}
+        - {x: -5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 18, y: -26}
+        - {x: 18, y: 4}
+        - {x: 15, y: 11}
+    - name: malorc_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -4}
+        - {x: 14, y: 13}
+        - {x: -9, y: 13}
+        - {x: -14, y: 12}
+        - {x: -15, y: 11}
+        - {x: -15, y: -1}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -30}
+        - {x: 11, y: -27}
+        - {x: 17, y: -18}
+    - name: malorc_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -15, y: 12}
+        - {x: -15, y: -1}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 13}
+    - name: malorc_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: -15, y: 13}
+        - {x: -15, y: 8}
+        - {x: -12, y: -25}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -27}
+        - {x: 13, y: 3}
+        - {x: 13, y: 11}
+    - name: malorc_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 13}
+        - {x: -15, y: 10}
+        - {x: -10, y: -19}
+        - {x: -9, y: -24}
+        - {x: -5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 12}
+        - {x: 12, y: 14}
+    - name: malorc_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -22}
+        - {x: 14, y: 13}
+        - {x: 8, y: 14}
+    - name: malorc_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+    - name: malorc_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 13}
+        - {x: 16, y: 14}
+        - {x: -13, y: 14}
+        - {x: -19, y: 7}
+        - {x: -19, y: -29}
+    - name: malorc_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -21, y: 3}
+        - {x: -21, y: -21}
+        - {x: -13, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 14}
+    - name: malorc_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -21, y: 2}
+        - {x: -21, y: -26}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -31}
+        - {x: 18, y: 14}
+    - name: malorc_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -22, y: 9}
+        - {x: -22, y: -22}
+        - {x: -18, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 14}
+    - name: malorc_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 13}
+        - {x: 7, y: 14}
+        - {x: -8, y: 14}
+        - {x: -22, y: 8}
+        - {x: -22, y: -13}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -30}
+        - {x: 16, y: -11}
+        - {x: 16, y: 7}
+    - name: malorc_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -21, y: 9}
+        - {x: -21, y: -26}
+        - {x: -19, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 14}
+    - name: malorc_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 3}
+        - {x: 14, y: 14}
+        - {x: -11, y: 14}
+        - {x: -21, y: 7}
+        - {x: -21, y: -13}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -29}
+        - {x: 13, y: -26}
+        - {x: 21, y: -5}
+    - name: malorc_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -21, y: 2}
+        - {x: -21, y: -26}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -31}
+        - {x: 18, y: 14}
+    - name: malorc_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -21, y: 3}
+        - {x: -21, y: -6}
+        - {x: -18, y: -9}
+        - {x: -13, y: -25}
+        - {x: -11, y: -31}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 5}
+        - {x: 11, y: 14}
+    - name: malorc_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -21, y: 0}
+        - {x: -21, y: -6}
+        - {x: -20, y: -10}
+        - {x: -11, y: -31}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 13}
+        - {x: 9, y: 14}
+    - name: malorc_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -21, y: 3}
+        - {x: -21, y: -6}
+        - {x: -18, y: -9}
+        - {x: -13, y: -25}
+        - {x: -11, y: -31}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 5}
+        - {x: 11, y: 14}
+    - name: malorc_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -18, y: 14}
+        - {x: -18, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: -2}
+        - {x: 13, y: 17}
+    - name: malorc_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -25}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 15}
+        - {x: 12, y: 17}
+    - name: malorc_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -28}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 12, y: -29}
+        - {x: 13, y: -4}
+        - {x: 13, y: 15}
+        - {x: 12, y: 17}
+    - name: malorc_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -30}
+        - {x: 13, y: -12}
+        - {x: 13, y: 17}
+    - name: malorc_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17}
+        - {x: -15, y: 17}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 10}
+        - {x: 13, y: 15}
+    - name: malorc_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 10}
+        - {x: 13, y: 17}
+    - name: malorc_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -14, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -29}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -31}
+        - {x: 13, y: 10}
+        - {x: 13, y: 15}
+        - {x: 12, y: 17}
+    - name: malorc_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -30}
+        - {x: 13, y: 9}
+        - {x: 13, y: 15}
+        - {x: 12, y: 17}
+    - name: malorc_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -16, y: 16}
+        - {x: -16, y: -24}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -31}
+        - {x: 13, y: -15}
+        - {x: 13, y: 17}
+    - name: malorc_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17}
+        - {x: -15, y: 17}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 10}
+        - {x: 13, y: 15}
+    - name: malorc_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17}
+        - {x: -4, y: 17}
+        - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 7, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 10}
+        - {x: 13, y: 15}
+    - name: malorc_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -15, y: -29}
+        - {x: -6, y: -32}
+        - {x: 7, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -8}
+        - {x: 13, y: 17}
+    - name: malorc_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17}
+        - {x: -4, y: 17}
+        - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 7, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 10}
+        - {x: 13, y: 15}
+    - name: malorc_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 13}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: -1}
+        - {x: 9, y: 14}
+    - name: malorc_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -15, y: 14}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 6}
+        - {x: 12, y: 10}
+    - name: malorc_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 12}
+        - {x: -17, y: -6}
+        - {x: -17, y: -17}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -22}
+        - {x: 19, y: -8}
+        - {x: 8, y: 14}
+    - name: malorc_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -18, y: 0}
+        - {x: -18, y: -21}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 21, y: -23}
+        - {x: 21, y: 0}
+        - {x: 6, y: 14}
+    - name: malorc_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -18, y: 7}
+        - {x: -18, y: -24}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -19}
+        - {x: 21, y: -2}
+        - {x: 7, y: 14}
+    - name: malorc_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 22, y: -12}
+        - {x: 22, y: 6}
+        - {x: 8, y: 14}
+    - name: malorc_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -16, y: 12}
+        - {x: -16, y: -25}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 22, y: -22}
+        - {x: 22, y: 6}
+        - {x: 13, y: 14}
+    - name: malorc_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -19, y: 9}
+        - {x: -19, y: -24}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -16}
+        - {x: 21, y: 8}
+        - {x: 12, y: 14}
+    - name: malorc_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -21, y: 6}
+        - {x: -21, y: -10}
+        - {x: -16, y: -26}
+        - {x: -11, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 9}
+        - {x: 12, y: 14}
+    - name: malorc_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -18, y: 7}
+        - {x: -18, y: -24}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -19}
+        - {x: 21, y: -2}
+        - {x: 7, y: 14}
+    - name: malorc_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: -12, y: 14}
+        - {x: -16, y: 13}
+        - {x: -17, y: 11}
+        - {x: -17, y: -30}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -19}
+        - {x: 21, y: 8}
+    - name: malorc_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -31}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -19}
+        - {x: 21, y: -2}
+        - {x: 8, y: 14}
+    - name: malorc_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 8}
+        - {x: 14, y: 14}
+    - name: malorc_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: -11, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -17}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: -2}
+    - name: malorc_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -28}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -31}
+        - {x: 19, y: -25}
+        - {x: 19, y: 0}
+        - {x: 16, y: 16}
+    - name: malorc_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 10}
+        - {x: -15, y: -9}
+        - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -26}
+        - {x: 19, y: -12}
+        - {x: 16, y: 10}
+    - name: malorc_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 6}
+        - {x: -12, y: 6}
+        - {x: -15, y: -10}
+        - {x: -15, y: -31}
+        - {x: 14, y: -31}
+        - {x: 16, y: -30}
+        - {x: 19, y: -28}
+        - {x: 19, y: -10}
+    - name: malorc_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 1}
+        - {x: -16, y: -12}
+        - {x: -16, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: -7}
+        - {x: 10, y: 1}
+    - name: malorc_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -14, y: -31}
+        - {x: -7, y: -32}
+        - {x: 21, y: -32}
+        - {x: 22, y: -30}
+        - {x: 22, y: 0}
+        - {x: 20, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
