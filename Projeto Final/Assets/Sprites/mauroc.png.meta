@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 46b42cfb6092a9245a132490bff94f59
-timeCreated: 1455319557
+timeCreated: 1455574414
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -182,6 +182,184 @@ TextureImporter:
     21300350: malorc_175
     21300352: malorc_176
     21300354: malorc_177
+    21300356: mauroc_0
+    21300358: mauroc_1
+    21300360: mauroc_2
+    21300362: mauroc_3
+    21300364: mauroc_4
+    21300366: mauroc_5
+    21300368: mauroc_6
+    21300370: mauroc_7
+    21300372: mauroc_8
+    21300374: mauroc_9
+    21300376: mauroc_10
+    21300378: mauroc_11
+    21300380: mauroc_12
+    21300382: mauroc_13
+    21300384: mauroc_14
+    21300386: mauroc_15
+    21300388: mauroc_16
+    21300390: mauroc_17
+    21300392: mauroc_18
+    21300394: mauroc_19
+    21300396: mauroc_20
+    21300398: mauroc_21
+    21300400: mauroc_22
+    21300402: mauroc_23
+    21300404: mauroc_24
+    21300406: mauroc_25
+    21300408: mauroc_26
+    21300410: mauroc_27
+    21300412: mauroc_28
+    21300414: mauroc_29
+    21300416: mauroc_30
+    21300418: mauroc_31
+    21300420: mauroc_32
+    21300422: mauroc_33
+    21300424: mauroc_34
+    21300426: mauroc_35
+    21300428: mauroc_36
+    21300430: mauroc_37
+    21300432: mauroc_38
+    21300434: mauroc_39
+    21300436: mauroc_40
+    21300438: mauroc_41
+    21300440: mauroc_42
+    21300442: mauroc_43
+    21300444: mauroc_44
+    21300446: mauroc_45
+    21300448: mauroc_46
+    21300450: mauroc_47
+    21300452: mauroc_48
+    21300454: mauroc_49
+    21300456: mauroc_50
+    21300458: mauroc_51
+    21300460: mauroc_52
+    21300462: mauroc_53
+    21300464: mauroc_54
+    21300466: mauroc_55
+    21300468: mauroc_56
+    21300470: mauroc_57
+    21300472: mauroc_58
+    21300474: mauroc_59
+    21300476: mauroc_60
+    21300478: mauroc_61
+    21300480: mauroc_62
+    21300482: mauroc_63
+    21300484: mauroc_64
+    21300486: mauroc_65
+    21300488: mauroc_66
+    21300490: mauroc_67
+    21300492: mauroc_68
+    21300494: mauroc_69
+    21300496: mauroc_70
+    21300498: mauroc_71
+    21300500: mauroc_72
+    21300502: mauroc_73
+    21300504: mauroc_74
+    21300506: mauroc_75
+    21300508: mauroc_76
+    21300510: mauroc_77
+    21300512: mauroc_78
+    21300514: mauroc_79
+    21300516: mauroc_80
+    21300518: mauroc_81
+    21300520: mauroc_82
+    21300522: mauroc_83
+    21300524: mauroc_84
+    21300526: mauroc_85
+    21300528: mauroc_86
+    21300530: mauroc_87
+    21300532: mauroc_88
+    21300534: mauroc_89
+    21300536: mauroc_90
+    21300538: mauroc_91
+    21300540: mauroc_92
+    21300542: mauroc_93
+    21300544: mauroc_94
+    21300546: mauroc_95
+    21300548: mauroc_96
+    21300550: mauroc_97
+    21300552: mauroc_98
+    21300554: mauroc_99
+    21300556: mauroc_100
+    21300558: mauroc_101
+    21300560: mauroc_102
+    21300562: mauroc_103
+    21300564: mauroc_104
+    21300566: mauroc_105
+    21300568: mauroc_106
+    21300570: mauroc_107
+    21300572: mauroc_108
+    21300574: mauroc_109
+    21300576: mauroc_110
+    21300578: mauroc_111
+    21300580: mauroc_112
+    21300582: mauroc_113
+    21300584: mauroc_114
+    21300586: mauroc_115
+    21300588: mauroc_116
+    21300590: mauroc_117
+    21300592: mauroc_118
+    21300594: mauroc_119
+    21300596: mauroc_120
+    21300598: mauroc_121
+    21300600: mauroc_122
+    21300602: mauroc_123
+    21300604: mauroc_124
+    21300606: mauroc_125
+    21300608: mauroc_126
+    21300610: mauroc_127
+    21300612: mauroc_128
+    21300614: mauroc_129
+    21300616: mauroc_130
+    21300618: mauroc_131
+    21300620: mauroc_132
+    21300622: mauroc_133
+    21300624: mauroc_134
+    21300626: mauroc_135
+    21300628: mauroc_136
+    21300630: mauroc_137
+    21300632: mauroc_138
+    21300634: mauroc_139
+    21300636: mauroc_140
+    21300638: mauroc_141
+    21300640: mauroc_142
+    21300642: mauroc_143
+    21300644: mauroc_144
+    21300646: mauroc_145
+    21300648: mauroc_146
+    21300650: mauroc_147
+    21300652: mauroc_148
+    21300654: mauroc_149
+    21300656: mauroc_150
+    21300658: mauroc_151
+    21300660: mauroc_152
+    21300662: mauroc_153
+    21300664: mauroc_154
+    21300666: mauroc_155
+    21300668: mauroc_156
+    21300670: mauroc_157
+    21300672: mauroc_158
+    21300674: mauroc_159
+    21300676: mauroc_160
+    21300678: mauroc_161
+    21300680: mauroc_162
+    21300682: mauroc_163
+    21300684: mauroc_164
+    21300686: mauroc_165
+    21300688: mauroc_166
+    21300690: mauroc_167
+    21300692: mauroc_168
+    21300694: mauroc_169
+    21300696: mauroc_170
+    21300698: mauroc_171
+    21300700: mauroc_172
+    21300702: mauroc_173
+    21300704: mauroc_174
+    21300706: mauroc_175
+    21300708: mauroc_176
+    21300710: mauroc_177
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -228,7 +406,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: malorc_0
+    - name: mauroc_0
       rect:
         serializedVersion: 2
         x: 0
@@ -246,7 +424,7 @@ TextureImporter:
         - {x: 17, y: -29}
         - {x: 17, y: 5}
         - {x: 14, y: 15}
-    - name: malorc_1
+    - name: mauroc_1
       rect:
         serializedVersion: 2
         x: 64
@@ -265,7 +443,7 @@ TextureImporter:
         - {x: 16, y: -31}
         - {x: 16, y: -1}
         - {x: 14, y: 15}
-    - name: malorc_2
+    - name: mauroc_2
       rect:
         serializedVersion: 2
         x: 128
@@ -287,7 +465,7 @@ TextureImporter:
         - {x: 15, y: -29}
         - {x: 16, y: -9}
         - {x: 16, y: -4}
-    - name: malorc_3
+    - name: mauroc_3
       rect:
         serializedVersion: 2
         x: 192
@@ -306,7 +484,7 @@ TextureImporter:
         - {x: 16, y: -29}
         - {x: 20, y: -24}
         - {x: 20, y: 10}
-    - name: malorc_4
+    - name: mauroc_4
       rect:
         serializedVersion: 2
         x: 256
@@ -329,7 +507,7 @@ TextureImporter:
         - {x: 27, y: -16}
         - {x: 27, y: 3}
         - {x: 25, y: 5}
-    - name: malorc_5
+    - name: mauroc_5
       rect:
         serializedVersion: 2
         x: 320
@@ -348,7 +526,7 @@ TextureImporter:
         - {x: 16, y: -29}
         - {x: 26, y: -8}
         - {x: 26, y: 15}
-    - name: malorc_6
+    - name: mauroc_6
       rect:
         serializedVersion: 2
         x: 384
@@ -367,7 +545,7 @@ TextureImporter:
         - {x: 16, y: -29}
         - {x: 20, y: -24}
         - {x: 20, y: 10}
-    - name: malorc_7
+    - name: mauroc_7
       rect:
         serializedVersion: 2
         x: 0
@@ -385,7 +563,7 @@ TextureImporter:
         - {x: 13, y: -22}
         - {x: 13, y: 13}
         - {x: 7, y: 14}
-    - name: malorc_8
+    - name: mauroc_8
       rect:
         serializedVersion: 2
         x: 64
@@ -406,7 +584,7 @@ TextureImporter:
         - {x: 14, y: -16}
         - {x: 14, y: 5}
         - {x: 13, y: 12}
-    - name: malorc_9
+    - name: mauroc_9
       rect:
         serializedVersion: 2
         x: 128
@@ -422,7 +600,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 14}
         - {x: -13, y: 14}
-    - name: malorc_10
+    - name: mauroc_10
       rect:
         serializedVersion: 2
         x: 192
@@ -441,7 +619,7 @@ TextureImporter:
         - {x: 11, y: -29}
         - {x: 16, y: -17}
         - {x: 16, y: -2}
-    - name: malorc_11
+    - name: mauroc_11
       rect:
         serializedVersion: 2
         x: 256
@@ -463,7 +641,7 @@ TextureImporter:
         - {x: 21, y: -7}
         - {x: 21, y: 1}
         - {x: 9, y: 13}
-    - name: malorc_12
+    - name: mauroc_12
       rect:
         serializedVersion: 2
         x: 320
@@ -481,7 +659,7 @@ TextureImporter:
         - {x: 21, y: -4}
         - {x: 21, y: 10}
         - {x: 15, y: 14}
-    - name: malorc_13
+    - name: mauroc_13
       rect:
         serializedVersion: 2
         x: 384
@@ -500,7 +678,7 @@ TextureImporter:
         - {x: 11, y: -29}
         - {x: 18, y: -19}
         - {x: 18, y: 5}
-    - name: malorc_14
+    - name: mauroc_14
       rect:
         serializedVersion: 2
         x: 0
@@ -518,7 +696,7 @@ TextureImporter:
         - {x: 17, y: -26}
         - {x: 17, y: -2}
         - {x: 14, y: 17}
-    - name: malorc_15
+    - name: mauroc_15
       rect:
         serializedVersion: 2
         x: 64
@@ -536,7 +714,7 @@ TextureImporter:
         - {x: 17, y: -22}
         - {x: 17, y: -1}
         - {x: 14, y: 17}
-    - name: malorc_16
+    - name: mauroc_16
       rect:
         serializedVersion: 2
         x: 128
@@ -552,7 +730,7 @@ TextureImporter:
         - {x: 16, y: -32}
         - {x: 16, y: 8}
         - {x: 15, y: 17}
-    - name: malorc_17
+    - name: mauroc_17
       rect:
         serializedVersion: 2
         x: 192
@@ -570,7 +748,7 @@ TextureImporter:
         - {x: 20, y: -32}
         - {x: 20, y: -2}
         - {x: 14, y: 17}
-    - name: malorc_18
+    - name: mauroc_18
       rect:
         serializedVersion: 2
         x: 256
@@ -593,7 +771,7 @@ TextureImporter:
         - {x: 18, y: -32}
         - {x: 27, y: -6}
         - {x: 27, y: 13}
-    - name: malorc_19
+    - name: mauroc_19
       rect:
         serializedVersion: 2
         x: 320
@@ -611,7 +789,7 @@ TextureImporter:
         - {x: 19, y: -32}
         - {x: 26, y: -19}
         - {x: 26, y: 17}
-    - name: malorc_20
+    - name: mauroc_20
       rect:
         serializedVersion: 2
         x: 384
@@ -629,7 +807,7 @@ TextureImporter:
         - {x: 18, y: -32}
         - {x: 19, y: -20}
         - {x: 19, y: 2}
-    - name: malorc_21
+    - name: mauroc_21
       rect:
         serializedVersion: 2
         x: 0
@@ -646,7 +824,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -1}
         - {x: 10, y: 14}
-    - name: malorc_22
+    - name: mauroc_22
       rect:
         serializedVersion: 2
         x: 64
@@ -664,7 +842,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -1}
         - {x: 8, y: 14}
-    - name: malorc_23
+    - name: mauroc_23
       rect:
         serializedVersion: 2
         x: 128
@@ -683,7 +861,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 13, y: -9}
         - {x: 11, y: 9}
-    - name: malorc_24
+    - name: mauroc_24
       rect:
         serializedVersion: 2
         x: 192
@@ -701,7 +879,7 @@ TextureImporter:
         - {x: 14, y: -32}
         - {x: 14, y: -4}
         - {x: 11, y: 14}
-    - name: malorc_25
+    - name: mauroc_25
       rect:
         serializedVersion: 2
         x: 256
@@ -721,7 +899,7 @@ TextureImporter:
         - {x: 16, y: -25}
         - {x: 16, y: 9}
         - {x: 9, y: 14}
-    - name: malorc_26
+    - name: mauroc_26
       rect:
         serializedVersion: 2
         x: 320
@@ -739,7 +917,7 @@ TextureImporter:
         - {x: 16, y: -26}
         - {x: 16, y: 12}
         - {x: 8, y: 14}
-    - name: malorc_27
+    - name: mauroc_27
       rect:
         serializedVersion: 2
         x: 384
@@ -757,7 +935,7 @@ TextureImporter:
         - {x: 14, y: -32}
         - {x: 14, y: -2}
         - {x: 9, y: 14}
-    - name: malorc_28
+    - name: mauroc_28
       rect:
         serializedVersion: 2
         x: 0
@@ -774,7 +952,7 @@ TextureImporter:
         - {x: 17, y: -27}
         - {x: 17, y: 12}
         - {x: 16, y: 15}
-    - name: malorc_29
+    - name: mauroc_29
       rect:
         serializedVersion: 2
         x: 64
@@ -790,7 +968,7 @@ TextureImporter:
         - {x: -12, y: -32}
         - {x: 16, y: -32}
         - {x: 16, y: 15}
-    - name: malorc_30
+    - name: mauroc_30
       rect:
         serializedVersion: 2
         x: 128
@@ -807,7 +985,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 15, y: -30}
         - {x: 15, y: 15}
-    - name: malorc_31
+    - name: mauroc_31
       rect:
         serializedVersion: 2
         x: 192
@@ -827,7 +1005,7 @@ TextureImporter:
         - {x: 15, y: -14}
         - {x: 15, y: 13}
         - {x: 14, y: 15}
-    - name: malorc_32
+    - name: mauroc_32
       rect:
         serializedVersion: 2
         x: 256
@@ -846,7 +1024,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 15, y: 14}
         - {x: 14, y: 15}
-    - name: malorc_33
+    - name: mauroc_33
       rect:
         serializedVersion: 2
         x: 320
@@ -862,7 +1040,7 @@ TextureImporter:
         - {x: -5, y: -32}
         - {x: 15, y: -32}
         - {x: 15, y: 15}
-    - name: malorc_34
+    - name: mauroc_34
       rect:
         serializedVersion: 2
         x: 384
@@ -881,7 +1059,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 15, y: 14}
         - {x: 14, y: 15}
-    - name: malorc_35
+    - name: mauroc_35
       rect:
         serializedVersion: 2
         x: 448
@@ -901,7 +1079,7 @@ TextureImporter:
         - {x: 15, y: -14}
         - {x: 15, y: 13}
         - {x: 14, y: 15}
-    - name: malorc_36
+    - name: mauroc_36
       rect:
         serializedVersion: 2
         x: 0
@@ -919,7 +1097,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 13, y: 2}
         - {x: 11, y: 14}
-    - name: malorc_37
+    - name: mauroc_37
       rect:
         serializedVersion: 2
         x: 64
@@ -936,7 +1114,7 @@ TextureImporter:
         - {x: 8, y: -32}
         - {x: 14, y: -23}
         - {x: 14, y: 14}
-    - name: malorc_38
+    - name: mauroc_38
       rect:
         serializedVersion: 2
         x: 128
@@ -955,7 +1133,7 @@ TextureImporter:
         - {x: 16, y: -15}
         - {x: 16, y: 2}
         - {x: 13, y: 12}
-    - name: malorc_39
+    - name: mauroc_39
       rect:
         serializedVersion: 2
         x: 192
@@ -970,7 +1148,7 @@ TextureImporter:
         - {x: -13, y: -32}
         - {x: 17, y: -32}
         - {x: 17, y: 14}
-    - name: malorc_40
+    - name: mauroc_40
       rect:
         serializedVersion: 2
         x: 256
@@ -991,7 +1169,7 @@ TextureImporter:
         - {x: 12, y: -32}
         - {x: 12, y: 13}
         - {x: 10, y: 14}
-    - name: malorc_41
+    - name: mauroc_41
       rect:
         serializedVersion: 2
         x: 320
@@ -1011,7 +1189,7 @@ TextureImporter:
         - {x: 12, y: -29}
         - {x: 12, y: -4}
         - {x: 10, y: 14}
-    - name: malorc_42
+    - name: mauroc_42
       rect:
         serializedVersion: 2
         x: 384
@@ -1032,7 +1210,7 @@ TextureImporter:
         - {x: 12, y: -32}
         - {x: 12, y: 13}
         - {x: 10, y: 14}
-    - name: malorc_43
+    - name: mauroc_43
       rect:
         serializedVersion: 2
         x: 448
@@ -1047,7 +1225,7 @@ TextureImporter:
         - {x: -13, y: -32}
         - {x: 17, y: -32}
         - {x: 17, y: 14}
-    - name: malorc_44
+    - name: mauroc_44
       rect:
         serializedVersion: 2
         x: 0
@@ -1065,7 +1243,7 @@ TextureImporter:
         - {x: 17, y: -26}
         - {x: 17, y: -2}
         - {x: 14, y: 17}
-    - name: malorc_45
+    - name: mauroc_45
       rect:
         serializedVersion: 2
         x: 64
@@ -1086,7 +1264,7 @@ TextureImporter:
         - {x: 13, y: -26}
         - {x: 14, y: -17}
         - {x: 14, y: 17}
-    - name: malorc_46
+    - name: mauroc_46
       rect:
         serializedVersion: 2
         x: 128
@@ -1103,7 +1281,7 @@ TextureImporter:
         - {x: 9, y: -32}
         - {x: 14, y: -30}
         - {x: 14, y: 17}
-    - name: malorc_47
+    - name: mauroc_47
       rect:
         serializedVersion: 2
         x: 192
@@ -1123,7 +1301,7 @@ TextureImporter:
         - {x: 14, y: 17}
         - {x: -8, y: 17}
         - {x: -13, y: 16}
-    - name: malorc_48
+    - name: mauroc_48
       rect:
         serializedVersion: 2
         x: 256
@@ -1143,7 +1321,7 @@ TextureImporter:
         - {x: 14, y: -26}
         - {x: 14, y: 15}
         - {x: 13, y: 17}
-    - name: malorc_49
+    - name: mauroc_49
       rect:
         serializedVersion: 2
         x: 320
@@ -1160,7 +1338,7 @@ TextureImporter:
         - {x: 7, y: -32}
         - {x: 14, y: -29}
         - {x: 14, y: 17}
-    - name: malorc_50
+    - name: mauroc_50
       rect:
         serializedVersion: 2
         x: 384
@@ -1180,7 +1358,7 @@ TextureImporter:
         - {x: 14, y: -26}
         - {x: 14, y: 15}
         - {x: 13, y: 17}
-    - name: malorc_51
+    - name: mauroc_51
       rect:
         serializedVersion: 2
         x: 448
@@ -1199,7 +1377,7 @@ TextureImporter:
         - {x: 13, y: -29}
         - {x: 14, y: -24}
         - {x: 14, y: 19}
-    - name: malorc_52
+    - name: mauroc_52
       rect:
         serializedVersion: 2
         x: 0
@@ -1215,7 +1393,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -2}
         - {x: 10, y: 14}
-    - name: malorc_53
+    - name: mauroc_53
       rect:
         serializedVersion: 2
         x: 64
@@ -1236,7 +1414,7 @@ TextureImporter:
         - {x: 15, y: -31}
         - {x: 15, y: 2}
         - {x: 13, y: 14}
-    - name: malorc_54
+    - name: mauroc_54
       rect:
         serializedVersion: 2
         x: 128
@@ -1257,7 +1435,7 @@ TextureImporter:
         - {x: 15, y: -24}
         - {x: 15, y: -5}
         - {x: 8, y: 14}
-    - name: malorc_55
+    - name: mauroc_55
       rect:
         serializedVersion: 2
         x: 192
@@ -1275,7 +1453,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -2}
         - {x: 10, y: 14}
-    - name: malorc_56
+    - name: mauroc_56
       rect:
         serializedVersion: 2
         x: 256
@@ -1294,7 +1472,7 @@ TextureImporter:
         - {x: 19, y: -19}
         - {x: 19, y: -1}
         - {x: 11, y: 14}
-    - name: malorc_57
+    - name: mauroc_57
       rect:
         serializedVersion: 2
         x: 320
@@ -1313,7 +1491,7 @@ TextureImporter:
         - {x: 22, y: -15}
         - {x: 22, y: -6}
         - {x: 11, y: 14}
-    - name: malorc_58
+    - name: mauroc_58
       rect:
         serializedVersion: 2
         x: 384
@@ -1332,7 +1510,7 @@ TextureImporter:
         - {x: 19, y: -19}
         - {x: 19, y: -1}
         - {x: 11, y: 14}
-    - name: malorc_59
+    - name: mauroc_59
       rect:
         serializedVersion: 2
         x: 448
@@ -1350,7 +1528,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -2}
         - {x: 10, y: 14}
-    - name: malorc_60
+    - name: mauroc_60
       rect:
         serializedVersion: 2
         x: 0
@@ -1368,7 +1546,7 @@ TextureImporter:
         - {x: 17, y: -28}
         - {x: 17, y: 6}
         - {x: 14, y: 16}
-    - name: malorc_61
+    - name: mauroc_61
       rect:
         serializedVersion: 2
         x: 64
@@ -1389,7 +1567,7 @@ TextureImporter:
         - {x: 15, y: -30}
         - {x: 17, y: -23}
         - {x: 17, y: -6}
-    - name: malorc_62
+    - name: mauroc_62
       rect:
         serializedVersion: 2
         x: 128
@@ -1409,7 +1587,7 @@ TextureImporter:
         - {x: 17, y: -22}
         - {x: 17, y: 2}
         - {x: 14, y: 16}
-    - name: malorc_63
+    - name: mauroc_63
       rect:
         serializedVersion: 2
         x: 192
@@ -1426,7 +1604,7 @@ TextureImporter:
         - {x: -11, y: -32}
         - {x: 16, y: -32}
         - {x: 16, y: 16}
-    - name: malorc_64
+    - name: mauroc_64
       rect:
         serializedVersion: 2
         x: 256
@@ -1445,7 +1623,7 @@ TextureImporter:
         - {x: 17, y: -23}
         - {x: 17, y: 2}
         - {x: 14, y: 16}
-    - name: malorc_65
+    - name: mauroc_65
       rect:
         serializedVersion: 2
         x: 320
@@ -1464,7 +1642,7 @@ TextureImporter:
         - {x: 17, y: -22}
         - {x: 17, y: -1}
         - {x: 14, y: 16}
-    - name: malorc_66
+    - name: mauroc_66
       rect:
         serializedVersion: 2
         x: 384
@@ -1484,7 +1662,7 @@ TextureImporter:
         - {x: 17, y: -23}
         - {x: 17, y: 0}
         - {x: 15, y: 16}
-    - name: malorc_67
+    - name: mauroc_67
       rect:
         serializedVersion: 2
         x: 448
@@ -1503,7 +1681,7 @@ TextureImporter:
         - {x: 17, y: -25}
         - {x: 17, y: 3}
         - {x: 14, y: 16}
-    - name: malorc_68
+    - name: mauroc_68
       rect:
         serializedVersion: 2
         x: 512
@@ -1521,7 +1699,7 @@ TextureImporter:
         - {x: 17, y: -20}
         - {x: 17, y: -6}
         - {x: 14, y: 16}
-    - name: malorc_69
+    - name: mauroc_69
       rect:
         serializedVersion: 2
         x: 0
@@ -1539,7 +1717,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 13, y: 2}
         - {x: 11, y: 14}
-    - name: malorc_70
+    - name: mauroc_70
       rect:
         serializedVersion: 2
         x: 64
@@ -1559,7 +1737,7 @@ TextureImporter:
         - {x: 12, y: -32}
         - {x: 14, y: -27}
         - {x: 14, y: 12}
-    - name: malorc_71
+    - name: mauroc_71
       rect:
         serializedVersion: 2
         x: 128
@@ -1576,7 +1754,7 @@ TextureImporter:
         - {x: 8, y: -31}
         - {x: 13, y: -29}
         - {x: 13, y: 14}
-    - name: malorc_72
+    - name: mauroc_72
       rect:
         serializedVersion: 2
         x: 192
@@ -1594,7 +1772,7 @@ TextureImporter:
         - {x: 10, y: -31}
         - {x: 15, y: -26}
         - {x: 15, y: 14}
-    - name: malorc_73
+    - name: mauroc_73
       rect:
         serializedVersion: 2
         x: 256
@@ -1614,7 +1792,7 @@ TextureImporter:
         - {x: 16, y: -23}
         - {x: 16, y: 6}
         - {x: 15, y: 14}
-    - name: malorc_74
+    - name: mauroc_74
       rect:
         serializedVersion: 2
         x: 320
@@ -1633,7 +1811,7 @@ TextureImporter:
         - {x: 18, y: -23}
         - {x: 18, y: 1}
         - {x: 15, y: 14}
-    - name: malorc_75
+    - name: mauroc_75
       rect:
         serializedVersion: 2
         x: 384
@@ -1651,7 +1829,7 @@ TextureImporter:
         - {x: 16, y: -22}
         - {x: 16, y: 3}
         - {x: 15, y: 14}
-    - name: malorc_76
+    - name: mauroc_76
       rect:
         serializedVersion: 2
         x: 448
@@ -1669,7 +1847,7 @@ TextureImporter:
         - {x: 15, y: -20}
         - {x: 15, y: 9}
         - {x: 13, y: 14}
-    - name: malorc_77
+    - name: mauroc_77
       rect:
         serializedVersion: 2
         x: 512
@@ -1689,7 +1867,7 @@ TextureImporter:
         - {x: 14, y: -24}
         - {x: 14, y: 7}
         - {x: 13, y: 12}
-    - name: malorc_78
+    - name: mauroc_78
       rect:
         serializedVersion: 2
         x: 0
@@ -1707,7 +1885,7 @@ TextureImporter:
         - {x: 17, y: -26}
         - {x: 17, y: -2}
         - {x: 14, y: 17}
-    - name: malorc_79
+    - name: mauroc_79
       rect:
         serializedVersion: 2
         x: 64
@@ -1726,7 +1904,7 @@ TextureImporter:
         - {x: 15, y: -31}
         - {x: 17, y: -27}
         - {x: 17, y: 14}
-    - name: malorc_80
+    - name: mauroc_80
       rect:
         serializedVersion: 2
         x: 128
@@ -1744,7 +1922,7 @@ TextureImporter:
         - {x: 17, y: -25}
         - {x: 17, y: 9}
         - {x: 14, y: 17}
-    - name: malorc_81
+    - name: mauroc_81
       rect:
         serializedVersion: 2
         x: 192
@@ -1761,7 +1939,7 @@ TextureImporter:
         - {x: -14, y: -32}
         - {x: 17, y: -32}
         - {x: 17, y: 17}
-    - name: malorc_82
+    - name: mauroc_82
       rect:
         serializedVersion: 2
         x: 256
@@ -1778,7 +1956,7 @@ TextureImporter:
         - {x: 17, y: -25}
         - {x: 17, y: 11}
         - {x: 14, y: 17}
-    - name: malorc_83
+    - name: mauroc_83
       rect:
         serializedVersion: 2
         x: 320
@@ -1796,7 +1974,7 @@ TextureImporter:
         - {x: 17, y: -26}
         - {x: 17, y: 3}
         - {x: 14, y: 17}
-    - name: malorc_84
+    - name: mauroc_84
       rect:
         serializedVersion: 2
         x: 384
@@ -1815,7 +1993,7 @@ TextureImporter:
         - {x: 17, y: -28}
         - {x: 17, y: 10}
         - {x: 14, y: 17}
-    - name: malorc_85
+    - name: mauroc_85
       rect:
         serializedVersion: 2
         x: 448
@@ -1833,7 +2011,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 16, y: -28}
         - {x: 16, y: 17}
-    - name: malorc_86
+    - name: mauroc_86
       rect:
         serializedVersion: 2
         x: 512
@@ -1853,7 +2031,7 @@ TextureImporter:
         - {x: 14, y: -29}
         - {x: 17, y: -25}
         - {x: 17, y: 1}
-    - name: malorc_87
+    - name: mauroc_87
       rect:
         serializedVersion: 2
         x: 0
@@ -1869,7 +2047,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -2}
         - {x: 10, y: 14}
-    - name: malorc_88
+    - name: mauroc_88
       rect:
         serializedVersion: 2
         x: 64
@@ -1887,7 +2065,7 @@ TextureImporter:
         - {x: -9, y: -32}
         - {x: 16, y: -32}
         - {x: 16, y: 14}
-    - name: malorc_89
+    - name: mauroc_89
       rect:
         serializedVersion: 2
         x: 128
@@ -1906,7 +2084,7 @@ TextureImporter:
         - {x: 14, y: -31}
         - {x: 14, y: -12}
         - {x: 13, y: 0}
-    - name: malorc_90
+    - name: mauroc_90
       rect:
         serializedVersion: 2
         x: 192
@@ -1922,7 +2100,7 @@ TextureImporter:
         - {x: -6, y: -31}
         - {x: 11, y: -31}
         - {x: 11, y: 14}
-    - name: malorc_91
+    - name: mauroc_91
       rect:
         serializedVersion: 2
         x: 256
@@ -1939,7 +2117,7 @@ TextureImporter:
         - {x: 12, y: -29}
         - {x: 12, y: 10}
         - {x: 7, y: 14}
-    - name: malorc_92
+    - name: mauroc_92
       rect:
         serializedVersion: 2
         x: 320
@@ -1957,7 +2135,7 @@ TextureImporter:
         - {x: 11, y: 14}
         - {x: -11, y: 14}
         - {x: -18, y: -2}
-    - name: malorc_93
+    - name: mauroc_93
       rect:
         serializedVersion: 2
         x: 384
@@ -1975,7 +2153,7 @@ TextureImporter:
         - {x: 12, y: -32}
         - {x: 12, y: -1}
         - {x: 10, y: 14}
-    - name: malorc_94
+    - name: mauroc_94
       rect:
         serializedVersion: 2
         x: 448
@@ -1993,7 +2171,7 @@ TextureImporter:
         - {x: 10, y: -32}
         - {x: 11, y: -29}
         - {x: 11, y: 14}
-    - name: malorc_95
+    - name: mauroc_95
       rect:
         serializedVersion: 2
         x: 512
@@ -2012,7 +2190,7 @@ TextureImporter:
         - {x: 11, y: -17}
         - {x: 11, y: 7}
         - {x: 8, y: 14}
-    - name: malorc_96
+    - name: mauroc_96
       rect:
         serializedVersion: 2
         x: 0
@@ -2030,7 +2208,7 @@ TextureImporter:
         - {x: 17, y: -31}
         - {x: 17, y: 1}
         - {x: 13, y: 13}
-    - name: malorc_97
+    - name: mauroc_97
       rect:
         serializedVersion: 2
         x: 64
@@ -2048,7 +2226,7 @@ TextureImporter:
         - {x: -10, y: -32}
         - {x: 15, y: -32}
         - {x: 15, y: 11}
-    - name: malorc_98
+    - name: mauroc_98
       rect:
         serializedVersion: 2
         x: 128
@@ -2067,7 +2245,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 15, y: -5}
         - {x: 14, y: 8}
-    - name: malorc_99
+    - name: mauroc_99
       rect:
         serializedVersion: 2
         x: 192
@@ -2085,7 +2263,7 @@ TextureImporter:
         - {x: 17, y: -32}
         - {x: 17, y: 12}
         - {x: 16, y: 13}
-    - name: malorc_100
+    - name: mauroc_100
       rect:
         serializedVersion: 2
         x: 256
@@ -2105,7 +2283,7 @@ TextureImporter:
         - {x: 24, y: -12}
         - {x: 24, y: 11}
         - {x: 18, y: 13}
-    - name: malorc_101
+    - name: mauroc_101
       rect:
         serializedVersion: 2
         x: 320
@@ -2126,7 +2304,7 @@ TextureImporter:
         - {x: 27, y: -12}
         - {x: 27, y: 4}
         - {x: 18, y: 13}
-    - name: malorc_102
+    - name: mauroc_102
       rect:
         serializedVersion: 2
         x: 0
@@ -2144,7 +2322,7 @@ TextureImporter:
         - {x: 13, y: -22}
         - {x: 13, y: 13}
         - {x: 7, y: 14}
-    - name: malorc_103
+    - name: mauroc_103
       rect:
         serializedVersion: 2
         x: 64
@@ -2164,7 +2342,7 @@ TextureImporter:
         - {x: -9, y: 12}
         - {x: -14, y: 11}
         - {x: -17, y: -2}
-    - name: malorc_104
+    - name: mauroc_104
       rect:
         serializedVersion: 2
         x: 128
@@ -2182,7 +2360,7 @@ TextureImporter:
         - {x: 11, y: -30}
         - {x: 14, y: -26}
         - {x: 14, y: 14}
-    - name: malorc_105
+    - name: mauroc_105
       rect:
         serializedVersion: 2
         x: 192
@@ -2199,7 +2377,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 15, y: -8}
         - {x: 8, y: 14}
-    - name: malorc_106
+    - name: mauroc_106
       rect:
         serializedVersion: 2
         x: 256
@@ -2217,7 +2395,7 @@ TextureImporter:
         - {x: 14, y: -32}
         - {x: 14, y: 8}
         - {x: 8, y: 14}
-    - name: malorc_107
+    - name: mauroc_107
       rect:
         serializedVersion: 2
         x: 320
@@ -2237,7 +2415,7 @@ TextureImporter:
         - {x: 13, y: -31}
         - {x: 14, y: -26}
         - {x: 14, y: -5}
-    - name: malorc_108
+    - name: mauroc_108
       rect:
         serializedVersion: 2
         x: 0
@@ -2255,7 +2433,7 @@ TextureImporter:
         - {x: 17, y: -26}
         - {x: 17, y: -2}
         - {x: 14, y: 17}
-    - name: malorc_109
+    - name: mauroc_109
       rect:
         serializedVersion: 2
         x: 64
@@ -2270,7 +2448,7 @@ TextureImporter:
         - {x: -15, y: -32}
         - {x: 16, y: -32}
         - {x: 16, y: 17}
-    - name: malorc_110
+    - name: mauroc_110
       rect:
         serializedVersion: 2
         x: 128
@@ -2286,7 +2464,7 @@ TextureImporter:
         - {x: 16, y: -32}
         - {x: 16, y: -5}
         - {x: 12, y: 15}
-    - name: malorc_111
+    - name: mauroc_111
       rect:
         serializedVersion: 2
         x: 192
@@ -2307,7 +2485,7 @@ TextureImporter:
         - {x: 14, y: -32}
         - {x: 17, y: -31}
         - {x: 17, y: 15}
-    - name: malorc_112
+    - name: mauroc_112
       rect:
         serializedVersion: 2
         x: 256
@@ -2326,7 +2504,7 @@ TextureImporter:
         - {x: 25, y: -32}
         - {x: 25, y: 12}
         - {x: 18, y: 17}
-    - name: malorc_113
+    - name: mauroc_113
       rect:
         serializedVersion: 2
         x: 320
@@ -2344,7 +2522,7 @@ TextureImporter:
         - {x: 28, y: -21}
         - {x: 28, y: 10}
         - {x: 25, y: 17}
-    - name: malorc_114
+    - name: mauroc_114
       rect:
         serializedVersion: 2
         x: 0
@@ -2361,7 +2539,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: -1}
         - {x: 10, y: 14}
-    - name: malorc_115
+    - name: mauroc_115
       rect:
         serializedVersion: 2
         x: 64
@@ -2379,7 +2557,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 17, y: -26}
         - {x: 17, y: -6}
-    - name: malorc_116
+    - name: mauroc_116
       rect:
         serializedVersion: 2
         x: 128
@@ -2398,7 +2576,7 @@ TextureImporter:
         - {x: 15, y: -31}
         - {x: 15, y: 0}
         - {x: 13, y: 14}
-    - name: malorc_117
+    - name: mauroc_117
       rect:
         serializedVersion: 2
         x: 192
@@ -2421,7 +2599,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 15, y: -28}
         - {x: 23, y: -16}
-    - name: malorc_118
+    - name: mauroc_118
       rect:
         serializedVersion: 2
         x: 256
@@ -2439,7 +2617,7 @@ TextureImporter:
         - {x: 16, y: -29}
         - {x: 26, y: -6}
         - {x: 26, y: 4}
-    - name: malorc_119
+    - name: mauroc_119
       rect:
         serializedVersion: 2
         x: 320
@@ -2461,7 +2639,7 @@ TextureImporter:
         - {x: 16, y: -29}
         - {x: 23, y: -4}
         - {x: 23, y: 3}
-    - name: malorc_120
+    - name: mauroc_120
       rect:
         serializedVersion: 2
         x: 0
@@ -2480,7 +2658,7 @@ TextureImporter:
         - {x: 11, y: -32}
         - {x: 16, y: -18}
         - {x: 16, y: 4}
-    - name: malorc_121
+    - name: mauroc_121
       rect:
         serializedVersion: 2
         x: 64
@@ -2500,7 +2678,7 @@ TextureImporter:
         - {x: 15, y: -26}
         - {x: 15, y: -1}
         - {x: 13, y: 12}
-    - name: malorc_122
+    - name: mauroc_122
       rect:
         serializedVersion: 2
         x: 128
@@ -2519,7 +2697,7 @@ TextureImporter:
         - {x: 11, y: -32}
         - {x: 14, y: -29}
         - {x: 14, y: 13}
-    - name: malorc_123
+    - name: mauroc_123
       rect:
         serializedVersion: 2
         x: 192
@@ -2536,7 +2714,7 @@ TextureImporter:
         - {x: -7, y: -32}
         - {x: 13, y: -32}
         - {x: 13, y: 13}
-    - name: malorc_124
+    - name: mauroc_124
       rect:
         serializedVersion: 2
         x: 256
@@ -2556,7 +2734,7 @@ TextureImporter:
         - {x: 10, y: -30}
         - {x: 17, y: -21}
         - {x: 17, y: 0}
-    - name: malorc_125
+    - name: mauroc_125
       rect:
         serializedVersion: 2
         x: 320
@@ -2575,7 +2753,7 @@ TextureImporter:
         - {x: 15, y: -26}
         - {x: 15, y: 10}
         - {x: 14, y: 13}
-    - name: malorc_126
+    - name: mauroc_126
       rect:
         serializedVersion: 2
         x: 384
@@ -2593,7 +2771,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 16, y: -25}
         - {x: 16, y: 13}
-    - name: malorc_127
+    - name: mauroc_127
       rect:
         serializedVersion: 2
         x: 448
@@ -2612,7 +2790,7 @@ TextureImporter:
         - {x: 17, y: -12}
         - {x: 17, y: 12}
         - {x: 13, y: 13}
-    - name: malorc_128
+    - name: mauroc_128
       rect:
         serializedVersion: 2
         x: 512
@@ -2634,7 +2812,7 @@ TextureImporter:
         - {x: 18, y: -26}
         - {x: 18, y: 4}
         - {x: 15, y: 11}
-    - name: malorc_129
+    - name: mauroc_129
       rect:
         serializedVersion: 2
         x: 576
@@ -2656,7 +2834,7 @@ TextureImporter:
         - {x: 10, y: -30}
         - {x: 11, y: -27}
         - {x: 17, y: -18}
-    - name: malorc_130
+    - name: mauroc_130
       rect:
         serializedVersion: 2
         x: 640
@@ -2673,7 +2851,7 @@ TextureImporter:
         - {x: -7, y: -32}
         - {x: 13, y: -32}
         - {x: 13, y: 13}
-    - name: malorc_131
+    - name: mauroc_131
       rect:
         serializedVersion: 2
         x: 704
@@ -2693,7 +2871,7 @@ TextureImporter:
         - {x: 12, y: -27}
         - {x: 13, y: 3}
         - {x: 13, y: 11}
-    - name: malorc_132
+    - name: mauroc_132
       rect:
         serializedVersion: 2
         x: 768
@@ -2713,7 +2891,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 12}
         - {x: 12, y: 14}
-    - name: malorc_133
+    - name: mauroc_133
       rect:
         serializedVersion: 2
         x: 0
@@ -2731,7 +2909,7 @@ TextureImporter:
         - {x: 14, y: -22}
         - {x: 14, y: 13}
         - {x: 8, y: 14}
-    - name: malorc_134
+    - name: mauroc_134
       rect:
         serializedVersion: 2
         x: 64
@@ -2747,7 +2925,7 @@ TextureImporter:
         - {x: -14, y: -32}
         - {x: 15, y: -32}
         - {x: 15, y: 14}
-    - name: malorc_135
+    - name: mauroc_135
       rect:
         serializedVersion: 2
         x: 128
@@ -2766,7 +2944,7 @@ TextureImporter:
         - {x: -13, y: 14}
         - {x: -19, y: 7}
         - {x: -19, y: -29}
-    - name: malorc_136
+    - name: mauroc_136
       rect:
         serializedVersion: 2
         x: 192
@@ -2783,7 +2961,7 @@ TextureImporter:
         - {x: -13, y: -32}
         - {x: 18, y: -32}
         - {x: 18, y: 14}
-    - name: malorc_137
+    - name: mauroc_137
       rect:
         serializedVersion: 2
         x: 256
@@ -2801,7 +2979,7 @@ TextureImporter:
         - {x: 17, y: -32}
         - {x: 18, y: -31}
         - {x: 18, y: 14}
-    - name: malorc_138
+    - name: mauroc_138
       rect:
         serializedVersion: 2
         x: 320
@@ -2819,7 +2997,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 14, y: -31}
         - {x: 14, y: 14}
-    - name: malorc_139
+    - name: mauroc_139
       rect:
         serializedVersion: 2
         x: 384
@@ -2840,7 +3018,7 @@ TextureImporter:
         - {x: 14, y: -30}
         - {x: 16, y: -11}
         - {x: 16, y: 7}
-    - name: malorc_140
+    - name: mauroc_140
       rect:
         serializedVersion: 2
         x: 448
@@ -2857,7 +3035,7 @@ TextureImporter:
         - {x: -19, y: -32}
         - {x: 19, y: -32}
         - {x: 19, y: 14}
-    - name: malorc_141
+    - name: mauroc_141
       rect:
         serializedVersion: 2
         x: 512
@@ -2878,7 +3056,7 @@ TextureImporter:
         - {x: 13, y: -29}
         - {x: 13, y: -26}
         - {x: 21, y: -5}
-    - name: malorc_142
+    - name: mauroc_142
       rect:
         serializedVersion: 2
         x: 576
@@ -2896,7 +3074,7 @@ TextureImporter:
         - {x: 17, y: -32}
         - {x: 18, y: -31}
         - {x: 18, y: 14}
-    - name: malorc_143
+    - name: mauroc_143
       rect:
         serializedVersion: 2
         x: 640
@@ -2918,7 +3096,7 @@ TextureImporter:
         - {x: 17, y: -25}
         - {x: 17, y: 5}
         - {x: 11, y: 14}
-    - name: malorc_144
+    - name: mauroc_144
       rect:
         serializedVersion: 2
         x: 704
@@ -2938,7 +3116,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 13}
         - {x: 9, y: 14}
-    - name: malorc_145
+    - name: mauroc_145
       rect:
         serializedVersion: 2
         x: 768
@@ -2960,7 +3138,7 @@ TextureImporter:
         - {x: 17, y: -25}
         - {x: 17, y: 5}
         - {x: 11, y: 14}
-    - name: malorc_146
+    - name: mauroc_146
       rect:
         serializedVersion: 2
         x: 0
@@ -2978,7 +3156,7 @@ TextureImporter:
         - {x: 16, y: -26}
         - {x: 16, y: -2}
         - {x: 13, y: 17}
-    - name: malorc_147
+    - name: mauroc_147
       rect:
         serializedVersion: 2
         x: 64
@@ -2995,7 +3173,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 15}
         - {x: 12, y: 17}
-    - name: malorc_148
+    - name: mauroc_148
       rect:
         serializedVersion: 2
         x: 128
@@ -3016,7 +3194,7 @@ TextureImporter:
         - {x: 13, y: -4}
         - {x: 13, y: 15}
         - {x: 12, y: 17}
-    - name: malorc_149
+    - name: mauroc_149
       rect:
         serializedVersion: 2
         x: 192
@@ -3034,7 +3212,7 @@ TextureImporter:
         - {x: 10, y: -30}
         - {x: 13, y: -12}
         - {x: 13, y: 17}
-    - name: malorc_150
+    - name: mauroc_150
       rect:
         serializedVersion: 2
         x: 256
@@ -3053,7 +3231,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 13, y: 10}
         - {x: 13, y: 15}
-    - name: malorc_151
+    - name: mauroc_151
       rect:
         serializedVersion: 2
         x: 320
@@ -3070,7 +3248,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 13, y: 10}
         - {x: 13, y: 17}
-    - name: malorc_152
+    - name: mauroc_152
       rect:
         serializedVersion: 2
         x: 384
@@ -3091,7 +3269,7 @@ TextureImporter:
         - {x: 13, y: 10}
         - {x: 13, y: 15}
         - {x: 12, y: 17}
-    - name: malorc_153
+    - name: mauroc_153
       rect:
         serializedVersion: 2
         x: 448
@@ -3109,7 +3287,7 @@ TextureImporter:
         - {x: 13, y: 9}
         - {x: 13, y: 15}
         - {x: 12, y: 17}
-    - name: malorc_154
+    - name: mauroc_154
       rect:
         serializedVersion: 2
         x: 512
@@ -3128,7 +3306,7 @@ TextureImporter:
         - {x: 11, y: -31}
         - {x: 13, y: -15}
         - {x: 13, y: 17}
-    - name: malorc_155
+    - name: mauroc_155
       rect:
         serializedVersion: 2
         x: 576
@@ -3147,7 +3325,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 13, y: 10}
         - {x: 13, y: 15}
-    - name: malorc_156
+    - name: mauroc_156
       rect:
         serializedVersion: 2
         x: 640
@@ -3167,7 +3345,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 13, y: 10}
         - {x: 13, y: 15}
-    - name: malorc_157
+    - name: mauroc_157
       rect:
         serializedVersion: 2
         x: 704
@@ -3185,7 +3363,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 13, y: -8}
         - {x: 13, y: 17}
-    - name: malorc_158
+    - name: mauroc_158
       rect:
         serializedVersion: 2
         x: 768
@@ -3205,7 +3383,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 13, y: 10}
         - {x: 13, y: 15}
-    - name: malorc_159
+    - name: mauroc_159
       rect:
         serializedVersion: 2
         x: 0
@@ -3222,7 +3400,7 @@ TextureImporter:
         - {x: 12, y: -32}
         - {x: 12, y: -1}
         - {x: 9, y: 14}
-    - name: malorc_160
+    - name: mauroc_160
       rect:
         serializedVersion: 2
         x: 64
@@ -3240,7 +3418,7 @@ TextureImporter:
         - {x: 14, y: -30}
         - {x: 14, y: 6}
         - {x: 12, y: 10}
-    - name: malorc_161
+    - name: mauroc_161
       rect:
         serializedVersion: 2
         x: 128
@@ -3260,7 +3438,7 @@ TextureImporter:
         - {x: 19, y: -22}
         - {x: 19, y: -8}
         - {x: 8, y: 14}
-    - name: malorc_162
+    - name: mauroc_162
       rect:
         serializedVersion: 2
         x: 192
@@ -3279,7 +3457,7 @@ TextureImporter:
         - {x: 21, y: -23}
         - {x: 21, y: 0}
         - {x: 6, y: 14}
-    - name: malorc_163
+    - name: mauroc_163
       rect:
         serializedVersion: 2
         x: 256
@@ -3298,7 +3476,7 @@ TextureImporter:
         - {x: 21, y: -19}
         - {x: 21, y: -2}
         - {x: 7, y: 14}
-    - name: malorc_164
+    - name: mauroc_164
       rect:
         serializedVersion: 2
         x: 320
@@ -3316,7 +3494,7 @@ TextureImporter:
         - {x: 22, y: -12}
         - {x: 22, y: 6}
         - {x: 8, y: 14}
-    - name: malorc_165
+    - name: mauroc_165
       rect:
         serializedVersion: 2
         x: 384
@@ -3335,7 +3513,7 @@ TextureImporter:
         - {x: 22, y: -22}
         - {x: 22, y: 6}
         - {x: 13, y: 14}
-    - name: malorc_166
+    - name: mauroc_166
       rect:
         serializedVersion: 2
         x: 448
@@ -3354,7 +3532,7 @@ TextureImporter:
         - {x: 21, y: -16}
         - {x: 21, y: 8}
         - {x: 12, y: 14}
-    - name: malorc_167
+    - name: mauroc_167
       rect:
         serializedVersion: 2
         x: 512
@@ -3374,7 +3552,7 @@ TextureImporter:
         - {x: 21, y: -21}
         - {x: 21, y: 9}
         - {x: 12, y: 14}
-    - name: malorc_168
+    - name: mauroc_168
       rect:
         serializedVersion: 2
         x: 576
@@ -3393,7 +3571,7 @@ TextureImporter:
         - {x: 21, y: -19}
         - {x: 21, y: -2}
         - {x: 7, y: 14}
-    - name: malorc_169
+    - name: mauroc_169
       rect:
         serializedVersion: 2
         x: 640
@@ -3413,7 +3591,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 21, y: -19}
         - {x: 21, y: 8}
-    - name: malorc_170
+    - name: mauroc_170
       rect:
         serializedVersion: 2
         x: 704
@@ -3431,7 +3609,7 @@ TextureImporter:
         - {x: 21, y: -19}
         - {x: 21, y: -2}
         - {x: 8, y: 14}
-    - name: malorc_171
+    - name: mauroc_171
       rect:
         serializedVersion: 2
         x: 768
@@ -3448,7 +3626,7 @@ TextureImporter:
         - {x: 21, y: -21}
         - {x: 21, y: 8}
         - {x: 14, y: 14}
-    - name: malorc_172
+    - name: mauroc_172
       rect:
         serializedVersion: 2
         x: 0
@@ -3468,7 +3646,7 @@ TextureImporter:
         - {x: 14, y: -32}
         - {x: 17, y: -24}
         - {x: 17, y: -2}
-    - name: malorc_173
+    - name: mauroc_173
       rect:
         serializedVersion: 2
         x: 64
@@ -3488,7 +3666,7 @@ TextureImporter:
         - {x: 19, y: -25}
         - {x: 19, y: 0}
         - {x: 16, y: 16}
-    - name: malorc_174
+    - name: mauroc_174
       rect:
         serializedVersion: 2
         x: 128
@@ -3507,7 +3685,7 @@ TextureImporter:
         - {x: 19, y: -26}
         - {x: 19, y: -12}
         - {x: 16, y: 10}
-    - name: malorc_175
+    - name: mauroc_175
       rect:
         serializedVersion: 2
         x: 192
@@ -3526,7 +3704,7 @@ TextureImporter:
         - {x: 16, y: -30}
         - {x: 19, y: -28}
         - {x: 19, y: -10}
-    - name: malorc_176
+    - name: mauroc_176
       rect:
         serializedVersion: 2
         x: 256
@@ -3543,7 +3721,7 @@ TextureImporter:
         - {x: 20, y: -31}
         - {x: 20, y: -7}
         - {x: 10, y: 1}
-    - name: malorc_177
+    - name: mauroc_177
       rect:
         serializedVersion: 2
         x: 320
