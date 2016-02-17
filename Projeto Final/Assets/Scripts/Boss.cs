@@ -2,9 +2,6 @@
 using System.Collections;
 
 public class Boss : MonoBehaviour {
-
-   // public camera cam;
-
   
     public bool walk;
     public float movimentoX;
@@ -12,39 +9,28 @@ public class Boss : MonoBehaviour {
     public Rigidbody2D RbPlayer;
     public float maxSpeed;
     public bool facingRight;
-    public float jumpForce;
     public BoxCollider2D coliderChao;
-    public bool DoubleJump;
     public Transform LL;
     public Transform LR;
     public Transform LM;
-
-    public float transition;
-    private float x;
-    private float y;
     public Transform groundCheck;
     public bool grounded;
-    public LayerMask WhatIsGround;
     public bool pontoLR;
     public bool pontoLM;
     public bool magiaLancada;
     public bool spellcast;
-    public bool wallcheck;
     public int contadorMagia;
-
-    private int timeAndar;
 
     // Use this for initialization
     void Start()
     {
         walk = false;
-        timeAndar = 0;
         pontoLR = false;
         pontoLM = false;
         magiaLancada = false;
         contadorMagia = 0;
 
-        //      cam = FindObjectOfType(typeof(camera)) as camera;
+        
     }
 
     // Update is called once per frame
@@ -56,13 +42,12 @@ public class Boss : MonoBehaviour {
         anime.SetBool("spellcast", spellcast);
         anime.SetFloat("speedY", RbPlayer.velocity.y);
 
-
-
-
         if (transform.position.x > LM.position.x)
         {
             if (magiaLancada)
             {
+                SoundController.playSound(soundFX.LAUGTH);
+
                 contadorMagia++;
                 if(contadorMagia ==80) {
                     pontoLM = false;
@@ -82,7 +67,8 @@ public class Boss : MonoBehaviour {
             spellcast = true;
             magiaLancada = true;
             RbPlayer.velocity = new Vector2(0, RbPlayer.velocity.y);
-           
+
+
         }
         else {
             if (pontoLR == false)
@@ -140,37 +126,10 @@ public class Boss : MonoBehaviour {
             Flip();
         }
 
-        grounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, WhatIsGround);
-
-        if (grounded == true)
-        {
-
-            DoubleJump = false;
-        }
-
-        if (Input.GetButtonDown("Jump") && (grounded || !DoubleJump))
-        {
-
-            //     SoundController.playSound(soundFX.JUMP);
-            RbPlayer.velocity = new Vector2(0, 0);
-            RbPlayer.AddForce(new Vector2(0, jumpForce));
-
-            if (!grounded && !DoubleJump)
-            {
-
-                DoubleJump = true;
-            }
-        }
-
-       
-
     }
-
-
 
     void Flip()
     {
-
         facingRight = !facingRight;
         Vector3 theScale = transform.localScale;
         theScale.x = theScale.x * -1;
@@ -191,53 +150,30 @@ public class Boss : MonoBehaviour {
             gameObject.SetActive(false);
         }
 
-        if (col.tag == "ajustecamera")
-        {
-            //       cam.ajusteY = 0;
-        }
- 
-
-
     }
 
     void OnTriggerStay2D(Collider2D col)
     {
-        if (col.tag != "gatilho" && col.tag != "ajustecamera" && col.tag != "interacao")
-        {
-            wallcheck = true;
-        }
+
     }
 
     void OnTriggerExit2D(Collider2D col)
     {
-
-        wallcheck = false;
         
     }
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "plataformamovel")
-        {
-            transform.SetParent(col.gameObject.transform);
-        }
-
-        //Debug.Log ("Entrei no colisor");
+     
     }
 
     void OnCollisionStay2D()
     {
 
-        //Debug.Log ("estou no colisor");
     }
 
     void OnCollisionExit2D(Collision2D col)
     {
-        if (col.gameObject.tag == "plataformamovel")
-        {
-            transform.SetParent(null);
-        }
-        //Debug.Log ("Sai do colisor");
 
     }
 }

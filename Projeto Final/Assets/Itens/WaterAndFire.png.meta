@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 6d54dd6ec28811146a7250faf840fc24
+timeCreated: 1455659521
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WaterAndFire_0
+    21300002: WaterAndFire_1
+    21300004: WaterAndFire_2
+    21300006: WaterAndFire_3
+    21300008: WaterAndFire_4
+    21300010: WaterAndFire_5
+    21300012: WaterAndFire_6
+    21300014: WaterAndFire_7
+    21300016: WaterAndFire_8
+    21300018: WaterAndFire_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WaterAndFire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 32}
+        - {x: -96, y: -5}
+        - {x: -72, y: -32}
+        - {x: 96, y: -32}
+        - {x: 96, y: 32}
+      - - {x: -91, y: -3}
+        - {x: -93, y: -9}
+        - {x: -93, y: -28}
+        - {x: -89, y: -32}
+        - {x: -77, y: -32}
+        - {x: -67, y: -27}
+        - {x: -67, y: -6}
+        - {x: -76, y: -3}
+      - - {x: 5, y: -3}
+        - {x: 3, y: -7}
+        - {x: 3, y: -27}
+        - {x: 7, y: -32}
+        - {x: 19, y: -32}
+        - {x: 29, y: -25}
+        - {x: 29, y: -8}
+        - {x: 19, y: -3}
+    - name: WaterAndFire_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 39.5}
+        - {x: -40.5, y: 30.5}
+        - {x: -40.5, y: -35.5}
+        - {x: -30.5, y: -39.5}
+        - {x: 37.5, y: -39.5}
+        - {x: 40.5, y: -29.5}
+        - {x: 40.5, y: 33.5}
+        - {x: 30.5, y: 39.5}
+    - name: WaterAndFire_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 39.5}
+        - {x: -40.5, y: 30.5}
+        - {x: -40.5, y: -35.5}
+        - {x: -30.5, y: -39.5}
+        - {x: 37.5, y: -39.5}
+        - {x: 40.5, y: -29.5}
+        - {x: 40.5, y: 33.5}
+        - {x: 30.5, y: 39.5}
+    - name: WaterAndFire_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 29}
+        - {x: 26, y: 22}
+        - {x: 25, y: 9}
+        - {x: 7, y: 29}
+        - {x: -39, y: 29}
+        - {x: -48, y: 3}
+        - {x: -48, y: -29}
+        - {x: 48, y: -29}
+        - {x: 48, y: 8}
+        - {x: 35, y: 29}
+    - name: WaterAndFire_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterAndFire_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterAndFire_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterAndFire_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 10
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterAndFire_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterAndFire_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

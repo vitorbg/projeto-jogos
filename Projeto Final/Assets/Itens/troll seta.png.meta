@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 4ea5f49e48e961f49896807b57ad8cac
+timeCreated: 1455661936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: troll seta_0
+    21300002: troll seta_1
+    21300004: troll seta_2
+    21300006: troll seta_3
+    21300008: troll seta_4
+    21300010: troll seta_5
+    21300012: troll seta_6
+    21300014: troll seta_7
+    21300016: troll seta_8
+    21300018: troll seta_9
+    21300020: troll seta_10
+    21300022: troll seta_11
+    21300024: troll seta_12
+    21300026: troll seta_13
+    21300028: troll seta_14
+    21300030: troll seta_15
+    21300032: troll seta_16
+    21300034: troll seta_17
+    21300036: troll seta_18
+    21300038: troll seta_19
+    21300040: troll seta_20
+    21300042: troll seta_21
+    21300044: troll seta_22
+    21300046: troll seta_23
+    21300048: troll seta_24
+    21300050: troll seta_25
+    21300052: troll seta_26
+    21300054: troll seta_27
+    21300056: troll seta_28
+    21300058: troll seta_29
+    21300060: troll seta_30
+    21300062: troll seta_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: troll seta_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 616
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 22.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -38.5, y: 11.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -41.5, y: -10.5}
+        - {x: -39.5, y: -13.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 41.5, y: 3.5}
+        - {x: 22.5, y: 22.5}
+    - name: troll seta_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 616
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 22.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -38.5, y: 11.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -41.5, y: -10.5}
+        - {x: -39.5, y: -13.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 41.5, y: 3.5}
+        - {x: 22.5, y: 22.5}
+    - name: troll seta_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 616
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 22.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -38.5, y: 11.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -41.5, y: -10.5}
+        - {x: -39.5, y: -13.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 41.5, y: 3.5}
+        - {x: 22.5, y: 22.5}
+    - name: troll seta_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 22.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -38.5, y: 11.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -41.5, y: -10.5}
+        - {x: -39.5, y: -13.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 41.5, y: 3.5}
+        - {x: 22.5, y: 22.5}
+    - name: troll seta_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 529
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 8.5}
+        - {x: 38.5, y: 11.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -41.5, y: 3.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -16.5, y: -22.5}
+        - {x: -14.5, y: -20.5}
+        - {x: 38.5, y: -12.5}
+        - {x: 41.5, y: -9.5}
+    - name: troll seta_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 529
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 8.5}
+        - {x: 38.5, y: 11.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -41.5, y: 3.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -16.5, y: -22.5}
+        - {x: -14.5, y: -20.5}
+        - {x: 38.5, y: -12.5}
+        - {x: 41.5, y: -9.5}
+    - name: troll seta_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 529
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 8.5}
+        - {x: 38.5, y: 11.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -41.5, y: 3.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -16.5, y: -22.5}
+        - {x: -14.5, y: -20.5}
+        - {x: 38.5, y: -12.5}
+        - {x: 41.5, y: -9.5}
+    - name: troll seta_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 529
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 8.5}
+        - {x: 38.5, y: 11.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -41.5, y: 3.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -16.5, y: -22.5}
+        - {x: -14.5, y: -20.5}
+        - {x: 38.5, y: -12.5}
+        - {x: 41.5, y: -9.5}
+    - name: troll seta_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 426
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 38.5}
+        - {x: 8.5, y: 41.5}
+        - {x: -9.5, y: 41.5}
+        - {x: -12.5, y: 38.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -3.5, y: -41.5}
+        - {x: 9.5, y: -41.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 20.5, y: -14.5}
+    - name: troll seta_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 426
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 38.5}
+        - {x: 8.5, y: 41.5}
+        - {x: -9.5, y: 41.5}
+        - {x: -12.5, y: 38.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -3.5, y: -41.5}
+        - {x: 9.5, y: -41.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 20.5, y: -14.5}
+    - name: troll seta_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 426
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 38.5}
+        - {x: 8.5, y: 41.5}
+        - {x: -9.5, y: 41.5}
+        - {x: -12.5, y: 38.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -3.5, y: -41.5}
+        - {x: 9.5, y: -41.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 20.5, y: -14.5}
+    - name: troll seta_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 426
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 38.5}
+        - {x: 8.5, y: 41.5}
+        - {x: -9.5, y: 41.5}
+        - {x: -12.5, y: 38.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -3.5, y: -41.5}
+        - {x: 9.5, y: -41.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 20.5, y: -14.5}
+    - name: troll seta_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 341
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 41.5}
+        - {x: -3.5, y: 41.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: 16.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -12.5, y: -38.5}
+        - {x: -9.5, y: -41.5}
+        - {x: 8.5, y: -41.5}
+        - {x: 11.5, y: -38.5}
+        - {x: 22.5, y: 9.5}
+        - {x: 22.5, y: 25.5}
+    - name: troll seta_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 341
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 41.5}
+        - {x: -3.5, y: 41.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: 16.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -12.5, y: -38.5}
+        - {x: -9.5, y: -41.5}
+        - {x: 8.5, y: -41.5}
+        - {x: 11.5, y: -38.5}
+        - {x: 22.5, y: 9.5}
+        - {x: 22.5, y: 25.5}
+    - name: troll seta_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 341
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 41.5}
+        - {x: -3.5, y: 41.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: 16.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -12.5, y: -38.5}
+        - {x: -9.5, y: -41.5}
+        - {x: 8.5, y: -41.5}
+        - {x: 11.5, y: -38.5}
+        - {x: 22.5, y: 9.5}
+        - {x: 22.5, y: 25.5}
+    - name: troll seta_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 341
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 41.5}
+        - {x: -3.5, y: 41.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: 16.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -12.5, y: -38.5}
+        - {x: -9.5, y: -41.5}
+        - {x: 8.5, y: -41.5}
+        - {x: 11.5, y: -38.5}
+        - {x: 22.5, y: 9.5}
+        - {x: 22.5, y: 25.5}
+    - name: troll seta_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 264
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -32.5}
+        - {x: 27, y: -32.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: -8.5}
+        - {x: 8, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: -2.5}
+    - name: troll seta_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -32.5}
+        - {x: 27, y: -32.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: -8.5}
+        - {x: 8, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: -2.5}
+    - name: troll seta_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 264
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -32.5}
+        - {x: 27, y: -32.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: -8.5}
+        - {x: 8, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: -2.5}
+    - name: troll seta_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 264
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -32.5}
+        - {x: 27, y: -32.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: -8.5}
+        - {x: 8, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: -2.5}
+    - name: troll seta_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 182
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 32.5}
+        - {x: -32, y: 10.5}
+        - {x: -32, y: -32.5}
+        - {x: 3, y: -32.5}
+        - {x: 32, y: 9.5}
+        - {x: 32, y: 27.5}
+        - {x: 31, y: 32.5}
+    - name: troll seta_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 182
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 32.5}
+        - {x: -32, y: 10.5}
+        - {x: -32, y: -32.5}
+        - {x: 3, y: -32.5}
+        - {x: 32, y: 9.5}
+        - {x: 32, y: 27.5}
+        - {x: 31, y: 32.5}
+    - name: troll seta_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 32.5}
+        - {x: -32, y: 10.5}
+        - {x: -32, y: -32.5}
+        - {x: 3, y: -32.5}
+        - {x: 32, y: 9.5}
+        - {x: 32, y: 27.5}
+        - {x: 31, y: 32.5}
+    - name: troll seta_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 182
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 32.5}
+        - {x: -32, y: 10.5}
+        - {x: -32, y: -32.5}
+        - {x: 3, y: -32.5}
+        - {x: 32, y: 9.5}
+        - {x: 32, y: 27.5}
+        - {x: 31, y: 32.5}
+    - name: troll seta_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 94
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -27.5}
+        - {x: -31, y: -32.5}
+        - {x: -7, y: -32.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: 32.5}
+    - name: troll seta_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -27.5}
+        - {x: -31, y: -32.5}
+        - {x: -7, y: -32.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: 32.5}
+    - name: troll seta_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 94
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -27.5}
+        - {x: -31, y: -32.5}
+        - {x: -7, y: -32.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: 32.5}
+    - name: troll seta_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -27.5}
+        - {x: -31, y: -32.5}
+        - {x: -7, y: -32.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: 32.5}
+    - name: troll seta_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: 5.5}
+        - {x: -12, y: -32.5}
+        - {x: 32, y: -32.5}
+        - {x: 32, y: 2.5}
+        - {x: 25, y: 8.5}
+    - name: troll seta_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 12
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: 5.5}
+        - {x: -12, y: -32.5}
+        - {x: 32, y: -32.5}
+        - {x: 32, y: 2.5}
+        - {x: 25, y: 8.5}
+    - name: troll seta_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: 5.5}
+        - {x: -12, y: -32.5}
+        - {x: 32, y: -32.5}
+        - {x: 32, y: 2.5}
+        - {x: 25, y: 8.5}
+    - name: troll seta_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 12
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: 5.5}
+        - {x: -12, y: -32.5}
+        - {x: 32, y: -32.5}
+        - {x: 32, y: 2.5}
+        - {x: 25, y: 8.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
