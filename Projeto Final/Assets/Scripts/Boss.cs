@@ -46,8 +46,6 @@ public class Boss : MonoBehaviour {
         {
             if (magiaLancada)
             {
-                SoundController.playSound(soundFX.LAUGTH);
-
                 contadorMagia++;
                 if(contadorMagia ==80) {
                     pontoLM = false;
@@ -58,6 +56,8 @@ public class Boss : MonoBehaviour {
             else
             {
                 pontoLM = true;
+                SoundController.playSound(soundFX.LAUGTH);
+
             }
         }
 
@@ -67,8 +67,6 @@ public class Boss : MonoBehaviour {
             spellcast = true;
             magiaLancada = true;
             RbPlayer.velocity = new Vector2(0, RbPlayer.velocity.y);
-
-
         }
         else {
             if (pontoLR == false)
@@ -90,8 +88,6 @@ public class Boss : MonoBehaviour {
                 if (RbPlayer.position.x < LL.position.x)
                 {
                     pontoLR = false;
-
-
                     magiaLancada = false;
                     pontoLM = false;
                     contadorMagia = 0;
@@ -140,15 +136,12 @@ public class Boss : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D col)
     {
 
-        if (col.tag == "moeda")
+        if (col.tag == "inimigo")
         {
             Destroy(col.gameObject);
         }
 
-        if (col.tag == "veneno")
-        {
-            gameObject.SetActive(false);
-        }
+
 
     }
 
@@ -164,7 +157,12 @@ public class Boss : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D col)
     {
-     
+        if (col.gameObject.tag == "inimigo")
+        {
+            Destroy(col.gameObject);
+        }
+
+
     }
 
     void OnCollisionStay2D()

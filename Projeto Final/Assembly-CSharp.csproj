@@ -46,11 +46,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Behavior.cs" />
+     <Compile Include="Assets\Script\Toin.cs" />
+     <Compile Include="Assets\Script\arrowController.cs" />
      <Compile Include="Assets\Scripts\Boss.cs" />
      <Compile Include="Assets\Scripts\Camera.cs" />
+     <Compile Include="Assets\Scripts\ControladorPlataforma.cs" />
+     <Compile Include="Assets\Scripts\EndGame.cs" />
      <Compile Include="Assets\Scripts\FadeController.cs" />
      <Compile Include="Assets\Scripts\MenuInicial.cs" />
      <Compile Include="Assets\Scripts\Orquicio.cs" />
+     <Compile Include="Assets\Scripts\Plataforma.cs" />
+     <Compile Include="Assets\Scripts\Porta.cs" />
      <Compile Include="Assets\Scripts\SoundController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

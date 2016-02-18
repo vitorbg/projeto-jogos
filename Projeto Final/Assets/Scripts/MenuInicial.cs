@@ -3,6 +3,7 @@ using System.Collections;
 
 public class MenuInicial : MonoBehaviour {
 
+    public string cena;
 	// Use this for initialization
 	void Start () {
 	
@@ -12,7 +13,7 @@ public class MenuInicial : MonoBehaviour {
 	void Update () {
         if (Input.GetButtonDown("Jump"))
         {
-            Application.LoadLevel("Floresta");
+            Application.LoadLevel(cena);
         }
     }
 }

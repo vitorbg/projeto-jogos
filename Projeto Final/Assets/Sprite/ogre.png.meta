@@ -1,0 +1,3698 @@
+fileFormatVersion: 2
+guid: a75263819de5a614b92e629168181788
+timeCreated: 1455234003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ogre_0
+    21300002: ogre_1
+    21300004: ogre_2
+    21300006: ogre_3
+    21300008: ogre_4
+    21300010: ogre_5
+    21300012: ogre_6
+    21300014: ogre_7
+    21300016: ogre_8
+    21300018: ogre_9
+    21300020: ogre_10
+    21300022: ogre_11
+    21300024: ogre_12
+    21300026: ogre_13
+    21300028: ogre_14
+    21300030: ogre_15
+    21300032: ogre_16
+    21300034: ogre_17
+    21300036: ogre_18
+    21300038: ogre_19
+    21300040: ogre_20
+    21300042: ogre_21
+    21300044: ogre_22
+    21300046: ogre_23
+    21300048: ogre_24
+    21300050: ogre_25
+    21300052: ogre_26
+    21300054: ogre_27
+    21300056: ogre_28
+    21300058: ogre_29
+    21300060: ogre_30
+    21300062: ogre_31
+    21300064: ogre_32
+    21300066: ogre_33
+    21300068: ogre_34
+    21300070: ogre_35
+    21300072: ogre_36
+    21300074: ogre_37
+    21300076: ogre_38
+    21300078: ogre_39
+    21300080: ogre_40
+    21300082: ogre_41
+    21300084: ogre_42
+    21300086: ogre_43
+    21300088: ogre_44
+    21300090: ogre_45
+    21300092: ogre_46
+    21300094: ogre_47
+    21300096: ogre_48
+    21300098: ogre_49
+    21300100: ogre_50
+    21300102: ogre_51
+    21300104: ogre_52
+    21300106: ogre_53
+    21300108: ogre_54
+    21300110: ogre_55
+    21300112: ogre_56
+    21300114: ogre_57
+    21300116: ogre_58
+    21300118: ogre_59
+    21300120: ogre_60
+    21300122: ogre_61
+    21300124: ogre_62
+    21300126: ogre_63
+    21300128: ogre_64
+    21300130: ogre_65
+    21300132: ogre_66
+    21300134: ogre_67
+    21300136: ogre_68
+    21300138: ogre_69
+    21300140: ogre_70
+    21300142: ogre_71
+    21300144: ogre_72
+    21300146: ogre_73
+    21300148: ogre_74
+    21300150: ogre_75
+    21300152: ogre_76
+    21300154: ogre_77
+    21300156: ogre_78
+    21300158: ogre_79
+    21300160: ogre_80
+    21300162: ogre_81
+    21300164: ogre_82
+    21300166: ogre_83
+    21300168: ogre_84
+    21300170: ogre_85
+    21300172: ogre_86
+    21300174: ogre_87
+    21300176: ogre_88
+    21300178: ogre_89
+    21300180: ogre_90
+    21300182: ogre_91
+    21300184: ogre_92
+    21300186: ogre_93
+    21300188: ogre_94
+    21300190: ogre_95
+    21300192: ogre_96
+    21300194: ogre_97
+    21300196: ogre_98
+    21300198: ogre_99
+    21300200: ogre_100
+    21300202: ogre_101
+    21300204: ogre_102
+    21300206: ogre_103
+    21300208: ogre_104
+    21300210: ogre_105
+    21300212: ogre_106
+    21300214: ogre_107
+    21300216: ogre_108
+    21300218: ogre_109
+    21300220: ogre_110
+    21300222: ogre_111
+    21300224: ogre_112
+    21300226: ogre_113
+    21300228: ogre_114
+    21300230: ogre_115
+    21300232: ogre_116
+    21300234: ogre_117
+    21300236: ogre_118
+    21300238: ogre_119
+    21300240: ogre_120
+    21300242: ogre_121
+    21300244: ogre_122
+    21300246: ogre_123
+    21300248: ogre_124
+    21300250: ogre_125
+    21300252: ogre_126
+    21300254: ogre_127
+    21300256: ogre_128
+    21300258: ogre_129
+    21300260: ogre_130
+    21300262: ogre_131
+    21300264: ogre_132
+    21300266: ogre_133
+    21300268: ogre_134
+    21300270: ogre_135
+    21300272: ogre_136
+    21300274: ogre_137
+    21300276: ogre_138
+    21300278: ogre_139
+    21300280: ogre_140
+    21300282: ogre_141
+    21300284: ogre_142
+    21300286: ogre_143
+    21300288: ogre_144
+    21300290: ogre_145
+    21300292: ogre_146
+    21300294: ogre_147
+    21300296: ogre_148
+    21300298: ogre_149
+    21300300: ogre_150
+    21300302: ogre_151
+    21300304: ogre_152
+    21300306: ogre_153
+    21300308: ogre_154
+    21300310: ogre_155
+    21300312: ogre_156
+    21300314: ogre_157
+    21300316: ogre_158
+    21300318: ogre_159
+    21300320: ogre_160
+    21300322: ogre_161
+    21300324: ogre_162
+    21300326: ogre_163
+    21300328: ogre_164
+    21300330: ogre_165
+    21300332: ogre_166
+    21300334: ogre_167
+    21300336: ogre_168
+    21300338: ogre_169
+    21300340: ogre_170
+    21300342: ogre_171
+    21300344: ogre_172
+    21300346: ogre_173
+    21300348: ogre_174
+    21300350: ogre_175
+    21300352: ogre_176
+    21300354: ogre_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ogre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -17, y: 4}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 14, y: 18}
+    - name: ogre_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -17, y: 16}
+        - {x: -17, y: -17}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 13}
+        - {x: 13, y: 18}
+    - name: ogre_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 16}
+        - {x: -16, y: -19}
+        - {x: -15, y: -29}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 13}
+        - {x: 12, y: 18}
+    - name: ogre_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -20, y: 18}
+        - {x: -20, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -31}
+        - {x: 20, y: 2}
+        - {x: 16, y: 11}
+    - name: ogre_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -27, y: 5}
+        - {x: -27, y: -21}
+        - {x: -21, y: -32}
+        - {x: 17, y: -32}
+        - {x: 27, y: -7}
+        - {x: 27, y: 11}
+        - {x: 12, y: 18}
+    - name: ogre_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -20, y: 18}
+        - {x: -26, y: 16}
+        - {x: -26, y: -18}
+        - {x: -22, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -29}
+        - {x: 26, y: -7}
+        - {x: 26, y: 13}
+    - name: ogre_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -20, y: 18}
+        - {x: -20, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -31}
+        - {x: 20, y: 2}
+        - {x: 16, y: 11}
+    - name: ogre_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -12, y: 18}
+        - {x: -12, y: -31}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 18}
+        - {x: 10, y: 19}
+    - name: ogre_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -13, y: 13}
+        - {x: -13, y: -15}
+        - {x: -12, y: -29}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: 17}
+        - {x: 9, y: 19}
+    - name: ogre_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -12, y: 17}
+        - {x: -12, y: -30}
+        - {x: -9, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 13, y: -21}
+        - {x: 13, y: 13}
+        - {x: 9, y: 19}
+    - name: ogre_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -12, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -31}
+        - {x: -1, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -28}
+        - {x: 16, y: -16}
+        - {x: 16, y: 17}
+    - name: ogre_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 21, y: -14}
+        - {x: 21, y: 2}
+        - {x: 13, y: 19}
+    - name: ogre_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -7}
+        - {x: 21, y: 14}
+        - {x: 19, y: 19}
+    - name: ogre_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -24}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 18, y: -10}
+        - {x: 18, y: 1}
+        - {x: 12, y: 19}
+    - name: ogre_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 18}
+        - {x: 14, y: 19}
+        - {x: -13, y: 19}
+        - {x: -16, y: 15}
+        - {x: -17, y: 3}
+        - {x: -17, y: -26}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: ogre_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 12}
+        - {x: 13, y: 19}
+        - {x: -12, y: 19}
+        - {x: -14, y: 18}
+        - {x: -17, y: -2}
+        - {x: -17, y: -22}
+        - {x: -13, y: -32}
+        - {x: -5, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: ogre_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 13}
+        - {x: 10, y: 19}
+        - {x: -8, y: 19}
+        - {x: -14, y: 18}
+        - {x: -16, y: 1}
+        - {x: -16, y: -25}
+        - {x: -13, y: -32}
+        - {x: -5, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: ogre_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -31}
+        - {x: 20, y: -22}
+        - {x: 20, y: 16}
+        - {x: 12, y: 19}
+        - {x: -13, y: 19}
+        - {x: -20, y: 9}
+        - {x: -20, y: -28}
+        - {x: -18, y: -32}
+        - {x: -5, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+    - name: ogre_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -18}
+        - {x: 27, y: 8}
+        - {x: 17, y: 19}
+        - {x: -15, y: 19}
+        - {x: -27, y: 13}
+        - {x: -27, y: -14}
+        - {x: -17, y: -31}
+        - {x: -11, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: 4, y: -32}
+        - {x: 18, y: -32}
+    - name: ogre_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 26, y: -12}
+        - {x: 26, y: 14}
+        - {x: 25, y: 19}
+        - {x: -26, y: 19}
+        - {x: -26, y: -5}
+        - {x: -13, y: -32}
+        - {x: -5, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: ogre_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -31}
+        - {x: 19, y: -24}
+        - {x: 19, y: 8}
+        - {x: 18, y: 14}
+        - {x: 10, y: 19}
+        - {x: -5, y: 19}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -19, y: -6}
+        - {x: -19, y: -24}
+        - {x: -16, y: -31}
+        - {x: -11, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+    - name: ogre_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -15, y: 17}
+        - {x: -15, y: -10}
+        - {x: -10, y: -28}
+        - {x: -8, y: -32}
+        - {x: 2, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 15}
+        - {x: 8, y: 19}
+    - name: ogre_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 17}
+        - {x: 6, y: 19}
+    - name: ogre_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -31}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 15}
+        - {x: 8, y: 19}
+    - name: ogre_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 17}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+    - name: ogre_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -8, y: 19}
+        - {x: -21, y: 5}
+        - {x: -21, y: -11}
+        - {x: -17, y: -25}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 9}
+    - name: ogre_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -21, y: 10}
+        - {x: -21, y: 0}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -17}
+        - {x: 16, y: 12}
+        - {x: 7, y: 19}
+    - name: ogre_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -18, y: 6}
+        - {x: -18, y: -15}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+    - name: ogre_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 0}
+        - {x: 16, y: 13}
+        - {x: 13, y: 18}
+        - {x: -8, y: 18}
+        - {x: -16, y: 16}
+        - {x: -24, y: 5}
+        - {x: -24, y: -19}
+        - {x: -21, y: -30}
+        - {x: -14, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -28}
+        - {x: 17, y: -20}
+    - name: ogre_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 17}
+        - {x: -21, y: 10}
+        - {x: -21, y: -28}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 16}
+        - {x: 11, y: 17}
+    - name: ogre_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -17, y: 16}
+        - {x: -17, y: -20}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -22}
+        - {x: 15, y: 16}
+        - {x: 13, y: 18}
+    - name: ogre_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -15, y: 11}
+        - {x: -15, y: -23}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 13, y: 18}
+    - name: ogre_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -13, y: -27}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+    - name: ogre_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -13, y: -26}
+        - {x: -7, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 12, y: 17}
+    - name: ogre_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -13, y: -27}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+    - name: ogre_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -15, y: 11}
+        - {x: -15, y: -23}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 13, y: 18}
+    - name: ogre_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -10, y: 19}
+        - {x: -12, y: 16}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: -3}
+        - {x: 15, y: 17}
+    - name: ogre_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -9, y: 19}
+        - {x: -13, y: 15}
+        - {x: -15, y: 8}
+        - {x: -15, y: -27}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 22, y: -22}
+        - {x: 22, y: 10}
+        - {x: 17, y: 16}
+    - name: ogre_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 15}
+        - {x: -15, y: -5}
+        - {x: -15, y: -21}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 8, y: -32}
+        - {x: 24, y: -17}
+        - {x: 24, y: 9}
+        - {x: 9, y: 19}
+    - name: ogre_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -12, y: 13}
+        - {x: -12, y: -29}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 24, y: -25}
+        - {x: 24, y: -1}
+        - {x: 8, y: 19}
+    - name: ogre_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 16}
+        - {x: 6, y: 19}
+    - name: ogre_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -22, y: 7}
+        - {x: -22, y: -27}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 14}
+        - {x: 6, y: 19}
+    - name: ogre_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 16}
+        - {x: 6, y: 19}
+    - name: ogre_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -12, y: 13}
+        - {x: -12, y: -29}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 24, y: -25}
+        - {x: 24, y: -1}
+        - {x: 8, y: 19}
+    - name: ogre_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 6}
+        - {x: 12, y: 19}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: ogre_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -15, y: 13}
+        - {x: -15, y: -31}
+        - {x: 13, y: -31}
+        - {x: 20, y: -26}
+        - {x: 20, y: 19}
+    - name: ogre_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -15}
+        - {x: -12, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 18}
+        - {x: 15, y: 19}
+    - name: ogre_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -16}
+        - {x: -11, y: -30}
+        - {x: -3, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 16}
+        - {x: 11, y: 19}
+    - name: ogre_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -14, y: 15}
+        - {x: -14, y: -30}
+        - {x: -8, y: -31}
+        - {x: 14, y: -31}
+        - {x: 17, y: -24}
+        - {x: 17, y: -3}
+        - {x: 14, y: 18}
+    - name: ogre_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 18}
+        - {x: -14, y: 18}
+        - {x: -14, y: -5}
+        - {x: -11, y: -30}
+        - {x: -1, y: -31}
+        - {x: 10, y: -31}
+        - {x: 15, y: -25}
+        - {x: 16, y: -20}
+    - name: ogre_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: -30}
+        - {x: -9, y: -31}
+        - {x: 14, y: -31}
+        - {x: 18, y: -24}
+        - {x: 18, y: 18}
+    - name: ogre_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: 12, y: 18}
+        - {x: 10, y: 19}
+        - {x: -14, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -10}
+        - {x: -11, y: -31}
+        - {x: 11, y: -31}
+        - {x: 13, y: -29}
+        - {x: 15, y: -23}
+    - name: ogre_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -21, y: 9}
+        - {x: -21, y: -21}
+        - {x: -15, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 18}
+        - {x: 7, y: 19}
+    - name: ogre_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -22, y: 11}
+        - {x: -22, y: -27}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 19}
+    - name: ogre_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 5, y: 19}
+        - {x: -13, y: 19}
+        - {x: -24, y: 0}
+        - {x: -24, y: -24}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 15, y: -22}
+        - {x: 15, y: -2}
+        - {x: 13, y: 11}
+    - name: ogre_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -23, y: 2}
+        - {x: -24, y: -3}
+        - {x: -24, y: -17}
+        - {x: -12, y: -32}
+        - {x: 3, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 6, y: 19}
+    - name: ogre_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 16}
+        - {x: -15, y: -23}
+        - {x: -12, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 19}
+    - name: ogre_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -9, y: 19}
+        - {x: -12, y: 16}
+        - {x: -13, y: 3}
+        - {x: -13, y: -29}
+        - {x: -11, y: -32}
+        - {x: 2, y: -32}
+        - {x: 14, y: -30}
+        - {x: 22, y: -14}
+        - {x: 22, y: -1}
+        - {x: 17, y: 16}
+    - name: ogre_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 16}
+        - {x: -15, y: -23}
+        - {x: -12, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 19}
+    - name: ogre_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -23, y: 2}
+        - {x: -24, y: -3}
+        - {x: -24, y: -17}
+        - {x: -12, y: -32}
+        - {x: 3, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 6, y: 19}
+    - name: ogre_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -24, y: 1}
+        - {x: -24, y: -13}
+        - {x: -23, y: -19}
+        - {x: -13, y: -31}
+        - {x: 13, y: -31}
+        - {x: 17, y: -24}
+        - {x: 17, y: 18}
+        - {x: 13, y: 19}
+    - name: ogre_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 0}
+        - {x: 16, y: 13}
+        - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -24, y: 6}
+        - {x: -24, y: -19}
+        - {x: -21, y: -28}
+        - {x: -11, y: -31}
+        - {x: 8, y: -31}
+        - {x: 12, y: -27}
+        - {x: 17, y: -19}
+    - name: ogre_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -24, y: 10}
+        - {x: -24, y: -27}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -29}
+        - {x: 17, y: 18}
+        - {x: 16, y: 19}
+    - name: ogre_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -24, y: 11}
+        - {x: -24, y: -18}
+        - {x: -17, y: -26}
+        - {x: -4, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 13}
+        - {x: 14, y: 18}
+    - name: ogre_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -6, y: 19}
+        - {x: -13, y: 16}
+        - {x: -23, y: 5}
+        - {x: -23, y: -18}
+        - {x: -20, y: -28}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 8}
+        - {x: 16, y: 12}
+    - name: ogre_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 17}
+        - {x: 6, y: 19}
+        - {x: -9, y: 19}
+        - {x: -13, y: 16}
+        - {x: -22, y: 3}
+        - {x: -23, y: 1}
+        - {x: -23, y: -19}
+        - {x: -10, y: -31}
+        - {x: 11, y: -31}
+        - {x: 17, y: -22}
+        - {x: 17, y: 3}
+    - name: ogre_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -23, y: 9}
+        - {x: -23, y: -16}
+        - {x: -15, y: -32}
+        - {x: 6, y: -32}
+        - {x: 14, y: -28}
+        - {x: 17, y: -21}
+        - {x: 17, y: 0}
+        - {x: 16, y: 13}
+    - name: ogre_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -22, y: 12}
+        - {x: -22, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+    - name: ogre_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -21, y: 19}
+        - {x: -23, y: 10}
+        - {x: -23, y: -26}
+        - {x: -16, y: -32}
+        - {x: 5, y: -32}
+        - {x: 15, y: -29}
+        - {x: 17, y: -22}
+        - {x: 17, y: 0}
+        - {x: 16, y: 13}
+    - name: ogre_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -12, y: 18}
+        - {x: -12, y: -31}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 20, y: -18}
+        - {x: 20, y: 10}
+        - {x: 18, y: 15}
+    - name: ogre_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: -15, y: 18}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 20, y: -23}
+        - {x: 20, y: 12}
+        - {x: 18, y: 15}
+    - name: ogre_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -13, y: 16}
+        - {x: -13, y: -31}
+        - {x: 14, y: -31}
+        - {x: 20, y: -18}
+        - {x: 20, y: 11}
+        - {x: 18, y: 15}
+    - name: ogre_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -10, y: -23}
+        - {x: -7, y: -31}
+        - {x: 5, y: -31}
+        - {x: 21, y: -28}
+        - {x: 21, y: 13}
+        - {x: 20, y: 18}
+        - {x: 15, y: 19}
+        - {x: -8, y: 19}
+        - {x: -12, y: 15}
+    - name: ogre_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -10, y: 19}
+        - {x: -12, y: 15}
+        - {x: -12, y: -28}
+        - {x: -8, y: -32}
+        - {x: 16, y: -32}
+        - {x: 22, y: -17}
+        - {x: 22, y: 8}
+        - {x: 18, y: 16}
+    - name: ogre_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -7, y: 18}
+        - {x: -14, y: 11}
+        - {x: -14, y: -26}
+        - {x: -13, y: -30}
+        - {x: -12, y: -32}
+        - {x: 3, y: -32}
+        - {x: 14, y: -29}
+        - {x: 22, y: -18}
+        - {x: 23, y: -13}
+        - {x: 23, y: 0}
+    - name: ogre_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 19}
+        - {x: -9, y: 19}
+        - {x: -12, y: 18}
+        - {x: -12, y: -30}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 22, y: -27}
+        - {x: 23, y: -24}
+        - {x: 23, y: 10}
+    - name: ogre_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 19}
+        - {x: -11, y: 19}
+        - {x: -12, y: 15}
+        - {x: -12, y: -22}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 5}
+        - {x: 19, y: 18}
+    - name: ogre_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 13}
+        - {x: 10, y: 19}
+        - {x: -9, y: 19}
+        - {x: -12, y: 18}
+        - {x: -12, y: -20}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -24}
+        - {x: 21, y: -3}
+        - {x: 19, y: 0}
+    - name: ogre_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 6}
+        - {x: 12, y: 19}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: ogre_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -12, y: 19}
+        - {x: -17, y: 12}
+        - {x: -17, y: -32}
+        - {x: 19, y: -32}
+        - {x: 22, y: -30}
+        - {x: 22, y: 6}
+        - {x: 20, y: 16}
+    - name: ogre_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 6}
+        - {x: 11, y: 19}
+    - name: ogre_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -16, y: 13}
+        - {x: -16, y: -21}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 23, y: -25}
+        - {x: 23, y: 5}
+        - {x: 19, y: 18}
+    - name: ogre_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -14, y: 18}
+        - {x: -18, y: -3}
+        - {x: -18, y: -18}
+        - {x: -10, y: -32}
+        - {x: 20, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 11}
+        - {x: 11, y: 19}
+    - name: ogre_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: 19, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 11}
+        - {x: 14, y: 19}
+    - name: ogre_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -25}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -31}
+        - {x: 22, y: -27}
+        - {x: 22, y: 19}
+    - name: ogre_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 18}
+        - {x: -14, y: 18}
+        - {x: -17, y: -3}
+        - {x: -17, y: -20}
+        - {x: -13, y: -31}
+        - {x: -11, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -30}
+        - {x: 21, y: -24}
+        - {x: 21, y: 1}
+    - name: ogre_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19}
+        - {x: -11, y: 19}
+        - {x: -17, y: 9}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 22, y: -27}
+        - {x: 22, y: 17}
+    - name: ogre_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -20, y: 9}
+        - {x: -20, y: -18}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 15}
+        - {x: 9, y: 19}
+    - name: ogre_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -20, y: 0}
+        - {x: -20, y: -18}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: 12}
+        - {x: 7, y: 18}
+    - name: ogre_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -20, y: 9}
+        - {x: -20, y: -22}
+        - {x: -16, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 19}
+    - name: ogre_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 17}
+        - {x: -21, y: 1}
+        - {x: -21, y: -15}
+        - {x: -20, y: -20}
+        - {x: -7, y: -31}
+        - {x: 10, y: -31}
+        - {x: 12, y: -1}
+        - {x: 12, y: 16}
+        - {x: 9, y: 19}
+    - name: ogre_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -19, y: 16}
+        - {x: -22, y: 5}
+        - {x: -22, y: -29}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 15}
+        - {x: 8, y: 19}
+    - name: ogre_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -14, y: 16}
+        - {x: -23, y: 0}
+        - {x: -23, y: -25}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 8}
+        - {x: 10, y: 18}
+    - name: ogre_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -17, y: 16}
+        - {x: -23, y: 1}
+        - {x: -23, y: -25}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 19}
+    - name: ogre_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -22, y: 7}
+        - {x: -22, y: -18}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -7}
+        - {x: 12, y: 13}
+        - {x: 5, y: 19}
+    - name: ogre_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -15, y: 17}
+        - {x: -21, y: 9}
+        - {x: -21, y: -23}
+        - {x: -17, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 17}
+        - {x: 10, y: 19}
+    - name: ogre_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 8}
+        - {x: 13, y: 18}
+    - name: ogre_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -17, y: 5}
+        - {x: -17, y: -25}
+        - {x: -16, y: -30}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 12}
+        - {x: 8, y: 17}
+    - name: ogre_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -17, y: 10}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 14, y: 17}
+    - name: ogre_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -25, y: 6}
+        - {x: -25, y: -15}
+        - {x: -20, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 16}
+        - {x: 13, y: 18}
+    - name: ogre_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 11}
+        - {x: -16, y: 6}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -31}
+        - {x: 32, y: 5}
+        - {x: 32, y: 20}
+    - name: ogre_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 2}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 18, y: -31}
+        - {x: 32, y: 0}
+        - {x: 32, y: 18}
+    - name: ogre_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 12}
+        - {x: -26, y: -17}
+        - {x: -26, y: -23}
+        - {x: -25, y: -26}
+        - {x: -3, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -24}
+        - {x: 13, y: 18}
+        - {x: 9, y: 19}
+    - name: ogre_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 17}
+        - {x: -8, y: 17}
+        - {x: -16, y: 10}
+        - {x: -17, y: -3}
+        - {x: -17, y: -25}
+        - {x: -16, y: -30}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+    - name: ogre_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+    - name: ogre_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -23, y: 4}
+        - {x: -23, y: -27}
+        - {x: -20, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 5}
+        - {x: 8, y: 19}
+    - name: ogre_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 19}
+        - {x: -29, y: 10}
+        - {x: -32, y: 6}
+        - {x: -32, y: -7}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 18}
+        - {x: 11, y: 19}
+    - name: ogre_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -32, y: 13}
+        - {x: -32, y: -7}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 4}
+        - {x: 7, y: 19}
+    - name: ogre_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -15, y: 15}
+        - {x: -17, y: 0}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+        - {x: 14, y: 19}
+    - name: ogre_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -17, y: 16}
+        - {x: -17, y: -24}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 14, y: 19}
+    - name: ogre_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 14}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -25}
+        - {x: 13, y: 13}
+        - {x: 8, y: 17}
+        - {x: -11, y: 17}
+        - {x: -16, y: 16}
+    - name: ogre_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -12, y: 17}
+        - {x: -14, y: 4}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 14}
+        - {x: 12, y: 18}
+    - name: ogre_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 19}
+        - {x: -10, y: 19}
+        - {x: -13, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -32}
+        - {x: 22, y: -32}
+        - {x: 29, y: -30}
+        - {x: 29, y: -5}
+        - {x: 25, y: 17}
+    - name: ogre_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -12, y: 15}
+        - {x: -15, y: 1}
+        - {x: -15, y: -31}
+        - {x: -14, y: -32}
+        - {x: 23, y: -32}
+        - {x: 32, y: -30}
+        - {x: 32, y: 3}
+        - {x: 28, y: 19}
+    - name: ogre_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -12, y: 19}
+        - {x: -13, y: 17}
+        - {x: -13, y: -29}
+        - {x: -10, y: -32}
+        - {x: 26, y: -32}
+        - {x: 26, y: -15}
+        - {x: 16, y: 17}
+    - name: ogre_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -12, y: 11}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 14}
+        - {x: 9, y: 17}
+    - name: ogre_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -14, y: 1}
+        - {x: -14, y: -29}
+        - {x: -12, y: -31}
+        - {x: -7, y: -32}
+        - {x: 7, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 18}
+        - {x: 13, y: 19}
+    - name: ogre_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -10, y: 19}
+        - {x: -15, y: 16}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 23, y: -16}
+        - {x: 23, y: 0}
+        - {x: 18, y: 16}
+    - name: ogre_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 19}
+        - {x: -4, y: 19}
+        - {x: -13, y: 14}
+        - {x: -14, y: 0}
+        - {x: -14, y: -25}
+        - {x: -12, y: -31}
+        - {x: -7, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -29}
+        - {x: 32, y: -5}
+        - {x: 32, y: 12}
+    - name: ogre_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 32, y: -5}
+        - {x: 32, y: 10}
+        - {x: 12, y: 19}
+    - name: ogre_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 6}
+        - {x: -18, y: -29}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 10}
+        - {x: 12, y: 18}
+    - name: ogre_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 17}
+        - {x: -8, y: 17}
+        - {x: -15, y: 14}
+        - {x: -15, y: -20}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 3}
+        - {x: 14, y: 9}
+    - name: ogre_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -8, y: 18}
+        - {x: -14, y: 11}
+        - {x: -14, y: -2}
+        - {x: -13, y: -27}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 11}
+    - name: ogre_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -15, y: -14}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -20}
+        - {x: 13, y: 17}
+        - {x: 12, y: 18}
+    - name: ogre_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -15, y: -10}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -19}
+        - {x: 17, y: 15}
+        - {x: 8, y: 18}
+    - name: ogre_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -15, y: 17}
+        - {x: -15, y: -14}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 13}
+        - {x: 13, y: 18}
+    - name: ogre_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -15, y: 17}
+        - {x: -15, y: -15}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 13}
+        - {x: 13, y: 18}
+    - name: ogre_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -15, y: 15}
+        - {x: -15, y: -16}
+        - {x: -5, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -19}
+        - {x: 17, y: 3}
+        - {x: 11, y: 18}
+    - name: ogre_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -15, y: 15}
+        - {x: -15, y: -6}
+        - {x: -11, y: -26}
+        - {x: -5, y: -32}
+        - {x: 10, y: -32}
+        - {x: 18, y: -22}
+        - {x: 18, y: 5}
+        - {x: 13, y: 18}
+    - name: ogre_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -8, y: 18}
+        - {x: -15, y: 15}
+        - {x: -15, y: -11}
+        - {x: -13, y: -19}
+        - {x: -5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 15, y: 11}
+    - name: ogre_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -15, y: -14}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -20}
+        - {x: 13, y: 17}
+        - {x: 12, y: 18}
+    - name: ogre_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -15, y: 14}
+        - {x: -15, y: 1}
+        - {x: -10, y: -25}
+        - {x: -5, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -27}
+        - {x: 13, y: 16}
+        - {x: 7, y: 18}
+    - name: ogre_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -15, y: 16}
+        - {x: -15, y: -9}
+        - {x: -13, y: -19}
+        - {x: -5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 11}
+        - {x: 12, y: 18}
+    - name: ogre_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -11, y: 18}
+        - {x: -11, y: -31}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 18}
+        - {x: 11, y: 19}
+    - name: ogre_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 14}
+        - {x: 13, y: 19}
+    - name: ogre_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19}
+        - {x: -10, y: 14}
+        - {x: -12, y: 11}
+        - {x: -19, y: -11}
+        - {x: -19, y: -14}
+        - {x: -15, y: -18}
+        - {x: -11, y: -29}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 9}
+        - {x: 15, y: 13}
+        - {x: 8, y: 19}
+    - name: ogre_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -21, y: 0}
+        - {x: -21, y: -28}
+        - {x: -17, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 16}
+        - {x: 11, y: 19}
+    - name: ogre_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -21, y: 13}
+        - {x: -21, y: -17}
+        - {x: -9, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 18}
+        - {x: 15, y: 19}
+    - name: ogre_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -13, y: 17}
+        - {x: -22, y: 11}
+        - {x: -22, y: -19}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+    - name: ogre_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -22, y: 11}
+        - {x: -22, y: -19}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 11}
+        - {x: 13, y: 19}
+    - name: ogre_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -21, y: 6}
+        - {x: -21, y: -6}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -19}
+        - {x: 19, y: 10}
+        - {x: 9, y: 19}
+    - name: ogre_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -21, y: 6}
+        - {x: -21, y: -9}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -13}
+        - {x: 21, y: 8}
+        - {x: 12, y: 19}
+    - name: ogre_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -21, y: 13}
+        - {x: -21, y: -17}
+        - {x: -9, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 18}
+        - {x: 15, y: 19}
+    - name: ogre_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -5, y: 19}
+        - {x: -13, y: 16}
+        - {x: -21, y: 8}
+        - {x: -21, y: -20}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -31}
+        - {x: 17, y: -21}
+        - {x: 17, y: 1}
+        - {x: 15, y: 12}
+    - name: ogre_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -14, y: 16}
+        - {x: -21, y: 9}
+        - {x: -21, y: -19}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+    - name: ogre_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -5, y: 19}
+        - {x: -13, y: 16}
+        - {x: -21, y: 8}
+        - {x: -21, y: -20}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -31}
+        - {x: 17, y: -21}
+        - {x: 17, y: 1}
+        - {x: 15, y: 12}
+    - name: ogre_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: 18}
+        - {x: 13, y: 19}
+        - {x: -14, y: 19}
+        - {x: -17, y: 15}
+        - {x: -18, y: 3}
+        - {x: -18, y: -26}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: -4, y: -32}
+        - {x: -2, y: -28}
+        - {x: -2, y: -24}
+        - {x: 0, y: -28}
+    - name: ogre_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -31}
+        - {x: 13, y: -31}
+        - {x: 14, y: -29}
+        - {x: 14, y: 17}
+        - {x: 13, y: 19}
+    - name: ogre_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -31}
+        - {x: 8, y: -31}
+        - {x: 13, y: -24}
+        - {x: 13, y: 19}
+    - name: ogre_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -9, y: 19}
+        - {x: -15, y: 18}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 4}
+        - {x: 13, y: 16}
+    - name: ogre_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -14, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -31}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -10}
+        - {x: 13, y: 18}
+    - name: ogre_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 13, y: -14}
+        - {x: 13, y: 18}
+        - {x: 9, y: 19}
+    - name: ogre_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -15, y: 16}
+        - {x: -15, y: -19}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 13, y: -14}
+        - {x: 13, y: 18}
+        - {x: 9, y: 19}
+    - name: ogre_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 17}
+        - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -12, y: -27}
+        - {x: -7, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 13, y: -9}
+        - {x: 13, y: 17}
+        - {x: 9, y: 19}
+    - name: ogre_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -16, y: 19}
+        - {x: -16, y: -30}
+        - {x: -8, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -10}
+        - {x: 13, y: 18}
+    - name: ogre_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -14, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -31}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -10}
+        - {x: 13, y: 18}
+    - name: ogre_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -11, y: 19}
+        - {x: -15, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -14}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -10}
+        - {x: 13, y: 18}
+    - name: ogre_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -13, y: 19}
+        - {x: -15, y: 17}
+        - {x: -15, y: -4}
+        - {x: -13, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -10}
+        - {x: 13, y: 18}
+    - name: ogre_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -11, y: 19}
+        - {x: -15, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -14}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: -10}
+        - {x: 13, y: 18}
+    - name: ogre_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -31}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -30}
+        - {x: 11, y: 17}
+        - {x: 5, y: 19}
+    - name: ogre_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -15, y: 17}
+        - {x: -15, y: -20}
+        - {x: -14, y: -30}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+    - name: ogre_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -3}
+        - {x: 11, y: 15}
+        - {x: 8, y: 19}
+        - {x: -9, y: 19}
+        - {x: -15, y: 17}
+        - {x: -17, y: -1}
+        - {x: -17, y: -13}
+        - {x: -14, y: -30}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -31}
+        - {x: 13, y: -24}
+        - {x: 19, y: -14}
+    - name: ogre_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -10, y: 19}
+        - {x: -18, y: 15}
+        - {x: -18, y: -16}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 20, y: -19}
+        - {x: 21, y: -16}
+        - {x: 21, y: -2}
+    - name: ogre_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 19}
+        - {x: -18, y: 19}
+        - {x: -18, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -19}
+        - {x: 21, y: 17}
+    - name: ogre_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 22, y: -22}
+        - {x: 22, y: 7}
+        - {x: 9, y: 19}
+    - name: ogre_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 8}
+        - {x: 11, y: 15}
+        - {x: 4, y: 19}
+        - {x: -9, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -32}
+        - {x: 0, y: -32}
+        - {x: 13, y: -30}
+        - {x: 22, y: -7}
+        - {x: 22, y: 2}
+    - name: ogre_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -19, y: 5}
+        - {x: -19, y: -21}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -14}
+        - {x: 21, y: 8}
+        - {x: 5, y: 19}
+    - name: ogre_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -21, y: 6}
+        - {x: -21, y: -12}
+        - {x: -14, y: -32}
+        - {x: 4, y: -32}
+        - {x: 13, y: -30}
+        - {x: 21, y: -6}
+        - {x: 21, y: 2}
+        - {x: 6, y: 19}
+    - name: ogre_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 19}
+        - {x: -18, y: 19}
+        - {x: -18, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -19}
+        - {x: 21, y: 17}
+    - name: ogre_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 17}
+        - {x: -17, y: 7}
+        - {x: -17, y: -19}
+        - {x: -13, y: -32}
+        - {x: 1, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -19}
+        - {x: 21, y: 8}
+        - {x: 14, y: 19}
+    - name: ogre_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 21, y: -25}
+        - {x: 21, y: 11}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+    - name: ogre_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 17}
+        - {x: -17, y: 7}
+        - {x: -17, y: -19}
+        - {x: -13, y: -32}
+        - {x: 1, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -19}
+        - {x: 21, y: 8}
+        - {x: 14, y: 19}
+    - name: ogre_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 18}
+        - {x: 14, y: 19}
+        - {x: -13, y: 19}
+        - {x: -16, y: 15}
+        - {x: -17, y: 3}
+        - {x: -17, y: -26}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: ogre_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -15, y: 15}
+        - {x: -16, y: -21}
+        - {x: -9, y: -31}
+        - {x: -2, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: 15}
+        - {x: 15, y: 18}
+    - name: ogre_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 11}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -28}
+        - {x: 19, y: 11}
+    - name: ogre_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 7}
+        - {x: -15, y: -6}
+        - {x: -15, y: -31}
+        - {x: 18, y: -31}
+        - {x: 19, y: -25}
+        - {x: 19, y: 7}
+    - name: ogre_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 1}
+        - {x: -15, y: -7}
+        - {x: -15, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: -7}
+        - {x: 10, y: 1}
+    - name: ogre_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 6}
+        - {x: -16, y: -1}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

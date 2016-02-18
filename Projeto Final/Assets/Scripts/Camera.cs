@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Camera : MonoBehaviour {
 
-    //public Transform player;
+    public Transform player;
     private float x;
     private float y;
     public float transition;
@@ -27,7 +27,7 @@ public class Camera : MonoBehaviour {
 
     void LateUpdate()
     {
-        //  x = player.position.x;
+        x = player.position.x;
         //y = player.position.y;
 
         //transform.position = new Vector3(x, transform.position.y, transform.position.z);
@@ -39,14 +39,14 @@ public class Camera : MonoBehaviour {
 
         if (segueY)
         {
-            //        y = player.position.y + ajusteY;
+            y = player.position.y + ajusteY;
         }
         else
         {
             y = transform.position.y;
         }
 
-        //    if (player.position.x > LL.position.x && player.position.x < LR.position.x)
+        if (player.position.x > LL.position.x && player.position.x < LR.position.x)
         {
 
             if (usaLerp)

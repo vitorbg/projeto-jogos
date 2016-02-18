@@ -1,0 +1,3721 @@
+fileFormatVersion: 2
+guid: 1d1d40de156b9b14ca7f4ba2a8eae175
+timeCreated: 1455232852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: toin_0
+    21300002: toin_1
+    21300004: toin_2
+    21300006: toin_3
+    21300008: toin_4
+    21300010: toin_5
+    21300012: toin_6
+    21300014: toin_7
+    21300016: toin_8
+    21300018: toin_9
+    21300020: toin_10
+    21300022: toin_11
+    21300024: toin_12
+    21300026: toin_13
+    21300028: toin_14
+    21300030: toin_15
+    21300032: toin_16
+    21300034: toin_17
+    21300036: toin_18
+    21300038: toin_19
+    21300040: toin_20
+    21300042: toin_21
+    21300044: toin_22
+    21300046: toin_23
+    21300048: toin_24
+    21300050: toin_25
+    21300052: toin_26
+    21300054: toin_27
+    21300056: toin_28
+    21300058: toin_29
+    21300060: toin_30
+    21300062: toin_31
+    21300064: toin_32
+    21300066: toin_33
+    21300068: toin_34
+    21300070: toin_35
+    21300072: toin_36
+    21300074: toin_37
+    21300076: toin_38
+    21300078: toin_39
+    21300080: toin_40
+    21300082: toin_41
+    21300084: toin_42
+    21300086: toin_43
+    21300088: toin_44
+    21300090: toin_45
+    21300092: toin_46
+    21300094: toin_47
+    21300096: toin_48
+    21300098: toin_49
+    21300100: toin_50
+    21300102: toin_51
+    21300104: toin_52
+    21300106: toin_53
+    21300108: toin_54
+    21300110: toin_55
+    21300112: toin_56
+    21300114: toin_57
+    21300116: toin_58
+    21300118: toin_59
+    21300120: toin_60
+    21300122: toin_61
+    21300124: toin_62
+    21300126: toin_63
+    21300128: toin_64
+    21300130: toin_65
+    21300132: toin_66
+    21300134: toin_67
+    21300136: toin_68
+    21300138: toin_69
+    21300140: toin_70
+    21300142: toin_71
+    21300144: toin_72
+    21300146: toin_73
+    21300148: toin_74
+    21300150: toin_75
+    21300152: toin_76
+    21300154: toin_77
+    21300156: toin_78
+    21300158: toin_79
+    21300160: toin_80
+    21300162: toin_81
+    21300164: toin_82
+    21300166: toin_83
+    21300168: toin_84
+    21300170: toin_85
+    21300172: toin_86
+    21300174: toin_87
+    21300176: toin_88
+    21300178: toin_89
+    21300180: toin_90
+    21300182: toin_91
+    21300184: toin_92
+    21300186: toin_93
+    21300188: toin_94
+    21300190: toin_95
+    21300192: toin_96
+    21300194: toin_97
+    21300196: toin_98
+    21300198: toin_99
+    21300200: toin_100
+    21300202: toin_101
+    21300204: toin_102
+    21300206: toin_103
+    21300208: toin_104
+    21300210: toin_105
+    21300212: toin_106
+    21300214: toin_107
+    21300216: toin_108
+    21300218: toin_109
+    21300220: toin_110
+    21300222: toin_111
+    21300224: toin_112
+    21300226: toin_113
+    21300228: toin_114
+    21300230: toin_115
+    21300232: toin_116
+    21300234: toin_117
+    21300236: toin_118
+    21300238: toin_119
+    21300240: toin_120
+    21300242: toin_121
+    21300244: toin_122
+    21300246: toin_123
+    21300248: toin_124
+    21300250: toin_125
+    21300252: toin_126
+    21300254: toin_127
+    21300256: toin_128
+    21300258: toin_129
+    21300260: toin_130
+    21300262: toin_131
+    21300264: toin_132
+    21300266: toin_133
+    21300268: toin_134
+    21300270: toin_135
+    21300272: toin_136
+    21300274: toin_137
+    21300276: toin_138
+    21300278: toin_139
+    21300280: toin_140
+    21300282: toin_141
+    21300284: toin_142
+    21300286: toin_143
+    21300288: toin_144
+    21300290: toin_145
+    21300292: toin_146
+    21300294: toin_147
+    21300296: toin_148
+    21300298: toin_149
+    21300300: toin_150
+    21300302: toin_151
+    21300304: toin_152
+    21300306: toin_153
+    21300308: toin_154
+    21300310: toin_155
+    21300312: toin_156
+    21300314: toin_157
+    21300316: toin_158
+    21300318: toin_159
+    21300320: toin_160
+    21300322: toin_161
+    21300324: toin_162
+    21300326: toin_163
+    21300328: toin_164
+    21300330: toin_165
+    21300332: toin_166
+    21300334: toin_167
+    21300336: toin_168
+    21300338: toin_169
+    21300340: toin_170
+    21300342: toin_171
+    21300344: toin_172
+    21300346: toin_173
+    21300348: toin_174
+    21300350: toin_175
+    21300352: toin_176
+    21300354: toin_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: toin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -15, y: 17}
+        - {x: -19, y: 0}
+        - {x: -19, y: -29}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 15}
+        - {x: 11, y: 19}
+    - name: toin_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -15, y: 16}
+        - {x: -19, y: -3}
+        - {x: -19, y: -28}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 15}
+        - {x: 7, y: 19}
+    - name: toin_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 17}
+        - {x: -19, y: -2}
+        - {x: -19, y: -28}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 14}
+        - {x: 6, y: 19}
+    - name: toin_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -14, y: 19}
+        - {x: -16, y: 18}
+        - {x: -20, y: -5}
+        - {x: -20, y: -27}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -22}
+        - {x: 20, y: 5}
+        - {x: 14, y: 12}
+    - name: toin_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -14, y: 19}
+        - {x: -27, y: 10}
+        - {x: -27, y: -7}
+        - {x: -24, y: -15}
+        - {x: -16, y: -32}
+        - {x: 21, y: -32}
+        - {x: 27, y: -8}
+        - {x: 27, y: 5}
+        - {x: 25, y: 6}
+    - name: toin_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 19}
+        - {x: -14, y: 19}
+        - {x: -24, y: 15}
+        - {x: -26, y: 7}
+        - {x: -26, y: 0}
+        - {x: -25, y: -2}
+        - {x: -22, y: -17}
+        - {x: -18, y: -32}
+        - {x: 17, y: -32}
+        - {x: 26, y: -10}
+        - {x: 26, y: 16}
+        - {x: 23, y: 18}
+    - name: toin_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -7, y: 19}
+        - {x: -15, y: 17}
+        - {x: -20, y: 9}
+        - {x: -20, y: -26}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 20, y: -21}
+        - {x: 20, y: -1}
+        - {x: 15, y: 13}
+    - name: toin_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -19, y: 1}
+        - {x: -19, y: -17}
+        - {x: -15, y: -30}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 14, y: -19}
+        - {x: 14, y: 18}
+        - {x: 10, y: 19}
+    - name: toin_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -18, y: 14}
+        - {x: -19, y: 7}
+        - {x: -19, y: -12}
+        - {x: -15, y: -30}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -30}
+        - {x: 14, y: -18}
+        - {x: 14, y: 16}
+        - {x: 11, y: 19}
+    - name: toin_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -24}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -31}
+        - {x: 14, y: -25}
+        - {x: 14, y: 17}
+        - {x: 12, y: 19}
+    - name: toin_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 15}
+        - {x: 13, y: 19}
+        - {x: -16, y: 19}
+        - {x: -19, y: 18}
+    - name: toin_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -5, y: 19}
+        - {x: -18, y: 14}
+        - {x: -19, y: 11}
+        - {x: -19, y: -25}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -28}
+        - {x: 19, y: -15}
+        - {x: 21, y: -9}
+        - {x: 21, y: 6}
+    - name: toin_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -19, y: 5}
+        - {x: -19, y: -28}
+        - {x: -16, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -9}
+        - {x: 21, y: 8}
+        - {x: 9, y: 19}
+    - name: toin_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -19, y: 17}
+        - {x: -19, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -22}
+        - {x: 18, y: 3}
+        - {x: 11, y: 19}
+    - name: toin_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16}
+        - {x: 7, y: 20}
+        - {x: -9, y: 20}
+        - {x: -17, y: 11}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 2}
+    - name: toin_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -10, y: 20}
+        - {x: -17, y: 14}
+        - {x: -17, y: -24}
+        - {x: -16, y: -30}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 2}
+        - {x: 18, y: 15}
+    - name: toin_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 14}
+        - {x: -16, y: -24}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 6}
+        - {x: 18, y: 15}
+    - name: toin_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -18, y: 9}
+        - {x: -20, y: -3}
+        - {x: -20, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: 20}
+    - name: toin_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -27, y: 12}
+        - {x: -27, y: -22}
+        - {x: -22, y: -32}
+        - {x: 26, y: -32}
+        - {x: 27, y: -25}
+        - {x: 27, y: 18}
+        - {x: 22, y: 20}
+    - name: toin_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -3, y: 20}
+        - {x: -26, y: 15}
+        - {x: -26, y: -6}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 26, y: -10}
+        - {x: 26, y: 9}
+        - {x: 23, y: 16}
+    - name: toin_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -9, y: 20}
+        - {x: -18, y: 9}
+        - {x: -19, y: 7}
+        - {x: -19, y: -24}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 4}
+        - {x: 18, y: 15}
+    - name: toin_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -29}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 19}
+    - name: toin_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -12, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -13}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -16}
+        - {x: 19, y: -6}
+        - {x: 16, y: 13}
+    - name: toin_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -28}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: 19}
+    - name: toin_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -19}
+        - {x: -8, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 19}
+    - name: toin_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -21, y: 10}
+        - {x: -21, y: -14}
+        - {x: -13, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 19}
+    - name: toin_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -18, y: 17}
+        - {x: -21, y: 10}
+        - {x: -21, y: -10}
+        - {x: -12, y: -30}
+        - {x: -8, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 17}
+        - {x: 14, y: 19}
+    - name: toin_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 19, y: -26}
+        - {x: 19, y: 13}
+        - {x: 15, y: 19}
+        - {x: -18, y: 19}
+        - {x: -18, y: -18}
+    - name: toin_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 16}
+        - {x: -16, y: 8}
+        - {x: -17, y: -6}
+        - {x: -18, y: -18}
+        - {x: -18, y: -24}
+        - {x: -8, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 13, y: 19}
+    - name: toin_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -17, y: 14}
+        - {x: -17, y: -29}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 6}
+        - {x: 11, y: 18}
+    - name: toin_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 16}
+        - {x: -17, y: 3}
+        - {x: -17, y: -25}
+        - {x: -2, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 17}
+        - {x: 10, y: 19}
+    - name: toin_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 12}
+        - {x: 9, y: 19}
+        - {x: -16, y: 19}
+        - {x: -17, y: 13}
+        - {x: -17, y: -28}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: -31}
+        - {x: 15, y: -2}
+    - name: toin_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -17, y: 6}
+        - {x: -17, y: -22}
+        - {x: -16, y: -26}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 10, y: 18}
+    - name: toin_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18}
+        - {x: -13, y: 16}
+        - {x: -17, y: -12}
+        - {x: -17, y: -23}
+        - {x: -5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: 11, y: 18}
+    - name: toin_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -17, y: 6}
+        - {x: -17, y: -22}
+        - {x: -16, y: -26}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 10, y: 18}
+    - name: toin_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 17}
+        - {x: -17, y: -8}
+        - {x: -17, y: -21}
+        - {x: -5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -6}
+        - {x: 15, y: 13}
+        - {x: 9, y: 19}
+    - name: toin_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -19, y: 16}
+        - {x: -19, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -25}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+    - name: toin_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 14, y: -20}
+        - {x: 14, y: 13}
+        - {x: 11, y: 19}
+    - name: toin_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 17}
+        - {x: 9, y: 19}
+    - name: toin_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -5, y: 19}
+        - {x: -18, y: 14}
+        - {x: -19, y: 5}
+        - {x: -19, y: -18}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 4}
+        - {x: 14, y: 13}
+    - name: toin_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -19, y: 13}
+        - {x: -21, y: 7}
+        - {x: -21, y: -22}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+        - {x: 9, y: 19}
+    - name: toin_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -21, y: 14}
+        - {x: -22, y: 8}
+        - {x: -22, y: -16}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 12}
+        - {x: 8, y: 19}
+    - name: toin_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -19, y: 13}
+        - {x: -21, y: 7}
+        - {x: -21, y: -22}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+        - {x: 9, y: 19}
+    - name: toin_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -5, y: 19}
+        - {x: -18, y: 14}
+        - {x: -19, y: 5}
+        - {x: -19, y: -18}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 4}
+        - {x: 14, y: 13}
+    - name: toin_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 15}
+        - {x: -17, y: -25}
+        - {x: -15, y: -32}
+        - {x: 20, y: -32}
+        - {x: 21, y: -29}
+        - {x: 21, y: 5}
+        - {x: 14, y: 20}
+    - name: toin_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -16, y: 10}
+        - {x: -16, y: -30}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -30}
+        - {x: 20, y: -23}
+        - {x: 20, y: 5}
+        - {x: 14, y: 20}
+    - name: toin_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -9, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -19}
+        - {x: -15, y: -28}
+        - {x: -6, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -25}
+        - {x: 20, y: 7}
+        - {x: 18, y: 15}
+    - name: toin_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: 6, y: 20}
+        - {x: -6, y: 20}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -15, y: -27}
+        - {x: -4, y: -32}
+        - {x: 7, y: -32}
+        - {x: 13, y: -29}
+        - {x: 20, y: -21}
+        - {x: 20, y: 12}
+        - {x: 19, y: 15}
+    - name: toin_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -22}
+        - {x: -15, y: -27}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 20, y: -23}
+        - {x: 20, y: 2}
+        - {x: 15, y: 12}
+        - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 14}
+    - name: toin_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -28}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 20, y: -24}
+        - {x: 20, y: 10}
+        - {x: 13, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 10}
+    - name: toin_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -22}
+        - {x: -15, y: -27}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 20, y: -23}
+        - {x: 20, y: 2}
+        - {x: 15, y: 12}
+        - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 14}
+    - name: toin_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -15, y: -27}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 20, y: -25}
+        - {x: 20, y: 10}
+        - {x: 18, y: 15}
+        - {x: 6, y: 20}
+        - {x: -9, y: 20}
+        - {x: -16, y: 12}
+    - name: toin_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -18}
+        - {x: -13, y: -30}
+        - {x: -9, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 17}
+        - {x: 13, y: 19}
+    - name: toin_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 12}
+        - {x: -14, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 17}
+        - {x: 13, y: 19}
+    - name: toin_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 18}
+        - {x: 16, y: 19}
+    - name: toin_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 5}
+        - {x: 17, y: 14}
+        - {x: 6, y: 19}
+        - {x: -16, y: 19}
+        - {x: -17, y: 18}
+        - {x: -17, y: -31}
+        - {x: -15, y: -32}
+        - {x: 4, y: -32}
+        - {x: 11, y: -30}
+        - {x: 13, y: -28}
+        - {x: 14, y: -25}
+        - {x: 19, y: -15}
+    - name: toin_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -7, y: 19}
+        - {x: -12, y: 12}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -25}
+        - {x: 21, y: 1}
+    - name: toin_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 12}
+        - {x: 7, y: 19}
+        - {x: -7, y: 19}
+        - {x: -12, y: 12}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 14, y: -29}
+        - {x: 22, y: -15}
+        - {x: 22, y: -2}
+    - name: toin_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -7, y: 19}
+        - {x: -12, y: 12}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -25}
+        - {x: 21, y: 1}
+    - name: toin_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 5}
+        - {x: 17, y: 14}
+        - {x: 6, y: 19}
+        - {x: -16, y: 19}
+        - {x: -17, y: 18}
+        - {x: -17, y: -31}
+        - {x: -15, y: -32}
+        - {x: 4, y: -32}
+        - {x: 11, y: -30}
+        - {x: 13, y: -28}
+        - {x: 14, y: -25}
+        - {x: 19, y: -15}
+    - name: toin_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -15, y: 18}
+        - {x: -19, y: -8}
+        - {x: -19, y: -26}
+        - {x: -16, y: -30}
+        - {x: -12, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 16}
+        - {x: 11, y: 20}
+    - name: toin_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -18, y: 9}
+        - {x: -19, y: 1}
+        - {x: -19, y: -28}
+        - {x: -9, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 18}
+        - {x: 7, y: 20}
+    - name: toin_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: 15}
+        - {x: -19, y: -31}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+        - {x: 15, y: 20}
+    - name: toin_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -19, y: 11}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 14}
+        - {x: 6, y: 19}
+    - name: toin_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -19, y: 12}
+        - {x: -19, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 8}
+        - {x: 12, y: 20}
+    - name: toin_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: 12}
+        - {x: -19, y: -31}
+        - {x: 11, y: -31}
+        - {x: 17, y: -25}
+        - {x: 17, y: 15}
+        - {x: 6, y: 20}
+    - name: toin_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -19, y: 15}
+        - {x: -19, y: -30}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 14, y: 20}
+    - name: toin_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -15, y: 17}
+        - {x: -19, y: 3}
+        - {x: -19, y: -25}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 0}
+        - {x: 15, y: 13}
+    - name: toin_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -9, y: 20}
+        - {x: -19, y: 15}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 1}
+        - {x: 15, y: 14}
+    - name: toin_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -18, y: 14}
+        - {x: -19, y: 7}
+        - {x: -19, y: -12}
+        - {x: -15, y: -30}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 14}
+        - {x: 10, y: 19}
+    - name: toin_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18}
+        - {x: -18, y: 12}
+        - {x: -19, y: 9}
+        - {x: -19, y: -21}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 12}
+        - {x: 10, y: 18}
+    - name: toin_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -27}
+        - {x: -16, y: -30}
+        - {x: -14, y: -31}
+        - {x: 8, y: -31}
+        - {x: 13, y: -29}
+        - {x: 14, y: -21}
+        - {x: 14, y: 19}
+    - name: toin_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -14}
+        - {x: -10, y: -30}
+        - {x: -6, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 18}
+        - {x: 14, y: 19}
+    - name: toin_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 16}
+        - {x: -19, y: -29}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: toin_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -18, y: 12}
+        - {x: -19, y: 7}
+        - {x: -19, y: -15}
+        - {x: -14, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 18}
+    - name: toin_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -5, y: 19}
+        - {x: -18, y: 14}
+        - {x: -19, y: 3}
+        - {x: -19, y: -14}
+        - {x: -11, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -21}
+        - {x: 16, y: -4}
+        - {x: 14, y: 13}
+    - name: toin_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -19, y: 3}
+        - {x: -19, y: -14}
+        - {x: -11, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -19}
+        - {x: 15, y: 17}
+        - {x: 9, y: 19}
+    - name: toin_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -12, y: 19}
+        - {x: -19, y: 13}
+        - {x: -19, y: -27}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -30}
+        - {x: 14, y: -14}
+    - name: toin_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16}
+        - {x: 7, y: 20}
+        - {x: -9, y: 20}
+        - {x: -17, y: 11}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 2}
+    - name: toin_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 15}
+        - {x: -17, y: -21}
+        - {x: -15, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: 20}
+    - name: toin_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16}
+        - {x: 7, y: 20}
+        - {x: -10, y: 20}
+        - {x: -17, y: 14}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 3}
+    - name: toin_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 12}
+        - {x: 11, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 13}
+        - {x: -16, y: -20}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -17}
+        - {x: 21, y: -13}
+        - {x: 20, y: -10}
+    - name: toin_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 21, y: -26}
+        - {x: 21, y: 8}
+        - {x: 18, y: 15}
+        - {x: 7, y: 20}
+        - {x: -14, y: 20}
+        - {x: -17, y: 18}
+    - name: toin_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -7, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -23}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -18}
+        - {x: 21, y: -6}
+        - {x: 17, y: 14}
+    - name: toin_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -11, y: 20}
+        - {x: -17, y: 8}
+        - {x: -17, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -26}
+        - {x: 21, y: 10}
+        - {x: 19, y: 15}
+    - name: toin_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: 6, y: 19}
+        - {x: -8, y: 19}
+        - {x: -17, y: 13}
+        - {x: -17, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -24}
+        - {x: 21, y: 1}
+        - {x: 16, y: 12}
+    - name: toin_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: 6, y: 20}
+        - {x: -7, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -32}
+        - {x: 11, y: -32}
+        - {x: 21, y: -23}
+        - {x: 21, y: 3}
+        - {x: 17, y: 14}
+    - name: toin_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -10, y: 19}
+        - {x: -14, y: 14}
+        - {x: -14, y: -21}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -16}
+        - {x: 19, y: -1}
+        - {x: 18, y: 14}
+    - name: toin_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 12}
+        - {x: 12, y: 18}
+        - {x: -14, y: 18}
+        - {x: -14, y: -30}
+        - {x: -9, y: -32}
+        - {x: -1, y: -32}
+        - {x: 1, y: -30}
+        - {x: 4, y: -32}
+        - {x: 19, y: -32}
+    - name: toin_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -12, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -31}
+        - {x: 16, y: -31}
+        - {x: 19, y: -21}
+        - {x: 19, y: 5}
+        - {x: 18, y: 14}
+    - name: toin_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -12, y: 19}
+        - {x: -15, y: 16}
+        - {x: -15, y: -21}
+        - {x: -13, y: -31}
+        - {x: 12, y: -31}
+        - {x: 19, y: -19}
+        - {x: 19, y: 7}
+        - {x: 18, y: 14}
+    - name: toin_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 7}
+        - {x: -16, y: -29}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -29}
+        - {x: 19, y: 18}
+        - {x: 16, y: 19}
+    - name: toin_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -15, y: 18}
+        - {x: -18, y: 16}
+        - {x: -18, y: -32}
+        - {x: 16, y: -32}
+        - {x: 19, y: -21}
+        - {x: 19, y: 6}
+        - {x: 18, y: 13}
+    - name: toin_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -10, y: 19}
+        - {x: -14, y: 13}
+        - {x: -16, y: -7}
+        - {x: -16, y: -20}
+        - {x: -7, y: -31}
+        - {x: -5, y: -32}
+        - {x: 16, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: 9}
+        - {x: 18, y: 14}
+    - name: toin_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -12, y: 19}
+        - {x: -15, y: 8}
+        - {x: -15, y: -23}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 19, y: -15}
+        - {x: 19, y: 10}
+        - {x: 18, y: 14}
+    - name: toin_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -14, y: 19}
+        - {x: -14, y: -26}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 19, y: -18}
+        - {x: 19, y: -4}
+        - {x: 13, y: 11}
+    - name: toin_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -15, y: 17}
+        - {x: -19, y: 0}
+        - {x: -19, y: -29}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 15}
+        - {x: 11, y: 19}
+    - name: toin_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18}
+        - {x: -13, y: 18}
+        - {x: -19, y: 14}
+        - {x: -19, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -29}
+        - {x: 15, y: 11}
+    - name: toin_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -19, y: 15}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 13}
+        - {x: 5, y: 18}
+    - name: toin_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -18, y: 12}
+        - {x: -18, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 7, y: 19}
+    - name: toin_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19}
+        - {x: -16, y: 8}
+        - {x: -18, y: -7}
+        - {x: -18, y: -23}
+        - {x: -16, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -31}
+        - {x: 24, y: -11}
+        - {x: 24, y: 8}
+        - {x: 7, y: 19}
+    - name: toin_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -16, y: 8}
+        - {x: -18, y: -8}
+        - {x: -18, y: -23}
+        - {x: -14, y: -32}
+        - {x: 27, y: -32}
+        - {x: 27, y: 19}
+    - name: toin_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -19, y: 1}
+        - {x: -19, y: -17}
+        - {x: -15, y: -30}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 14, y: -19}
+        - {x: 14, y: 18}
+        - {x: 10, y: 19}
+    - name: toin_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 9}
+        - {x: -21, y: -29}
+        - {x: -19, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 11}
+        - {x: 8, y: 17}
+        - {x: -7, y: 17}
+        - {x: -20, y: 12}
+    - name: toin_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -21, y: 17}
+        - {x: -21, y: -13}
+        - {x: -19, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 15}
+        - {x: 10, y: 19}
+    - name: toin_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -9, y: 19}
+        - {x: -21, y: 14}
+        - {x: -23, y: 3}
+        - {x: -23, y: -21}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: -1}
+        - {x: 11, y: 13}
+    - name: toin_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 19}
+        - {x: -17, y: 19}
+        - {x: -26, y: 8}
+        - {x: -26, y: -15}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 12}
+        - {x: 13, y: 15}
+    - name: toin_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -21, y: 15}
+        - {x: -23, y: 12}
+        - {x: -23, y: -22}
+        - {x: -21, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 10}
+        - {x: 9, y: 19}
+    - name: toin_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: -31}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: -4}
+    - name: toin_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -9, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: 3}
+        - {x: 18, y: 15}
+    - name: toin_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -17, y: 8}
+        - {x: -17, y: -13}
+        - {x: -15, y: -30}
+        - {x: -14, y: -32}
+        - {x: 18, y: -32}
+        - {x: 21, y: -27}
+        - {x: 21, y: 0}
+        - {x: 11, y: 18}
+    - name: toin_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -14, y: 13}
+        - {x: -14, y: -30}
+        - {x: -12, y: -32}
+        - {x: 18, y: -32}
+        - {x: 24, y: -27}
+        - {x: 24, y: 6}
+        - {x: 16, y: 19}
+    - name: toin_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 14}
+        - {x: -14, y: -32}
+        - {x: 25, y: -32}
+        - {x: 25, y: 20}
+    - name: toin_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 15}
+        - {x: 10, y: 20}
+        - {x: -6, y: 20}
+        - {x: -15, y: 10}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 18, y: -30}
+        - {x: 28, y: -11}
+        - {x: 28, y: 1}
+    - name: toin_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -29}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 19}
+    - name: toin_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -12, y: 12}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -30}
+        - {x: 21, y: -23}
+        - {x: 21, y: 17}
+    - name: toin_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 7}
+        - {x: -14, y: -30}
+        - {x: -12, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: 19}
+    - name: toin_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 2}
+        - {x: -15, y: -32}
+        - {x: 23, y: -32}
+        - {x: 23, y: 19}
+    - name: toin_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -26}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 26, y: -14}
+        - {x: 26, y: 4}
+        - {x: 17, y: 19}
+    - name: toin_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 6}
+        - {x: 15, y: 19}
+        - {x: -4, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -26}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: -26}
+        - {x: 23, y: -12}
+    - name: toin_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -10, y: 19}
+        - {x: -20, y: 8}
+        - {x: -28, y: -4}
+        - {x: -28, y: -13}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 21, y: -25}
+        - {x: 21, y: -6}
+        - {x: 16, y: 14}
+    - name: toin_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18}
+        - {x: -23, y: 18}
+        - {x: -26, y: 11}
+        - {x: -26, y: -5}
+        - {x: -20, y: -28}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 20, y: -25}
+        - {x: 20, y: -12}
+        - {x: 17, y: 13}
+    - name: toin_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -29}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 24, y: -22}
+        - {x: 24, y: -9}
+        - {x: 10, y: 22}
+    - name: toin_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29}
+        - {x: -19, y: 11}
+        - {x: -19, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -24}
+        - {x: 13, y: 19}
+        - {x: 6, y: 29}
+    - name: toin_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -17, y: 30}
+        - {x: -19, y: 21}
+        - {x: -19, y: -29}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 11}
+        - {x: 10, y: 32}
+    - name: toin_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -9, y: 30}
+        - {x: -19, y: 8}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -27}
+        - {x: 15, y: -20}
+        - {x: 15, y: 11}
+    - name: toin_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -4, y: 32}
+        - {x: -9, y: 30}
+        - {x: -19, y: 7}
+        - {x: -19, y: -27}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 8}
+        - {x: 14, y: 13}
+    - name: toin_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 29}
+        - {x: 0, y: 31}
+        - {x: -3, y: 31}
+        - {x: -8, y: 28}
+        - {x: -17, y: 8}
+        - {x: -19, y: 3}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 8}
+        - {x: 15, y: 13}
+    - name: toin_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 28}
+        - {x: -19, y: 7}
+        - {x: -19, y: -30}
+        - {x: -17, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -29}
+        - {x: 18, y: -21}
+        - {x: 18, y: 3}
+        - {x: 6, y: 28}
+    - name: toin_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 32}
+        - {x: -19, y: 32}
+        - {x: -19, y: -30}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -19}
+        - {x: 17, y: -11}
+    - name: toin_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -9, y: 30}
+        - {x: -19, y: 8}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 29}
+        - {x: 6, y: 32}
+    - name: toin_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -19, y: 15}
+        - {x: -19, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -20}
+        - {x: 13, y: 19}
+        - {x: 3, y: 32}
+    - name: toin_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -9, y: 30}
+        - {x: -19, y: 8}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 29}
+        - {x: 6, y: 32}
+    - name: toin_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -15, y: 19}
+        - {x: -32, y: 5}
+        - {x: -32, y: -20}
+        - {x: -11, y: -32}
+        - {x: 19, y: -32}
+        - {x: 22, y: -26}
+        - {x: 22, y: 12}
+        - {x: 18, y: 16}
+    - name: toin_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -19, y: 19}
+        - {x: -23, y: 16}
+        - {x: -23, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: -11}
+        - {x: 19, y: 16}
+    - name: toin_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -12, y: 11}
+        - {x: -12, y: 9}
+        - {x: -18, y: 18}
+        - {x: -21, y: 19}
+        - {x: -26, y: 19}
+        - {x: -28, y: 18}
+        - {x: -28, y: -20}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 17}
+        - {x: 9, y: 19}
+    - name: toin_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 20}
+        - {x: -30, y: -12}
+        - {x: -15, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 17}
+        - {x: 9, y: 20}
+    - name: toin_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: -2, y: 25}
+        - {x: -8, y: 25}
+        - {x: -18, y: 17}
+        - {x: -29, y: 0}
+        - {x: -29, y: -9}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 18, y: -23}
+        - {x: 18, y: 9}
+        - {x: 16, y: 13}
+    - name: toin_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27}
+        - {x: -32, y: 9}
+        - {x: -32, y: -2}
+        - {x: -14, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 15}
+        - {x: 2, y: 27}
+    - name: toin_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 29}
+        - {x: -32, y: 12}
+        - {x: -32, y: -17}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 18}
+        - {x: 6, y: 29}
+    - name: toin_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -10, y: 26}
+        - {x: -15, y: 23}
+        - {x: -30, y: 4}
+        - {x: -30, y: -2}
+        - {x: -11, y: -31}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -30}
+        - {x: 19, y: -17}
+        - {x: 19, y: 13}
+    - name: toin_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -27, y: 9}
+        - {x: -27, y: -5}
+        - {x: -14, y: -32}
+        - {x: 18, y: -32}
+        - {x: 21, y: -27}
+        - {x: 21, y: 19}
+        - {x: 5, y: 24}
+    - name: toin_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 25}
+        - {x: -19, y: 25}
+        - {x: -21, y: 11}
+        - {x: -21, y: -19}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -30}
+        - {x: 18, y: -18}
+        - {x: 18, y: 6}
+    - name: toin_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -21, y: 12}
+        - {x: -21, y: -23}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 14}
+        - {x: 0, y: 25}
+    - name: toin_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 25}
+        - {x: -21, y: 19}
+        - {x: -21, y: -23}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: 18}
+        - {x: 11, y: 25}
+    - name: toin_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -26, y: 7}
+        - {x: -26, y: -20}
+        - {x: -9, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 16}
+        - {x: 2, y: 25}
+    - name: toin_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 15}
+        - {x: 5, y: 20}
+        - {x: -10, y: 20}
+        - {x: -19, y: 12}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 24, y: -15}
+        - {x: 26, y: -8}
+        - {x: 26, y: -3}
+    - name: toin_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17}
+        - {x: 11, y: 16}
+        - {x: 5, y: 20}
+        - {x: -20, y: 20}
+        - {x: -25, y: 8}
+        - {x: -25, y: -31}
+        - {x: -21, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -31}
+        - {x: 20, y: -14}
+        - {x: 20, y: 13}
+        - {x: 16, y: 18}
+    - name: toin_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -24, y: 0}
+        - {x: -24, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 20}
+    - name: toin_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 11}
+        - {x: -17, y: -11}
+        - {x: -14, y: -23}
+        - {x: -12, y: -30}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 15}
+        - {x: 7, y: 20}
+    - name: toin_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: -10, y: 22}
+        - {x: -17, y: 16}
+        - {x: -17, y: -17}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 4}
+        - {x: 15, y: 13}
+    - name: toin_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: 0, y: 24}
+        - {x: -6, y: 24}
+        - {x: -9, y: 23}
+        - {x: -17, y: 10}
+        - {x: -17, y: 3}
+        - {x: -15, y: -4}
+        - {x: -14, y: -23}
+        - {x: -14, y: -27}
+        - {x: -10, y: -31}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 3}
+        - {x: 14, y: 13}
+    - name: toin_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: 0, y: 24}
+        - {x: -12, y: 24}
+        - {x: -17, y: 10}
+        - {x: -17, y: -16}
+        - {x: -16, y: -23}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 3}
+        - {x: 14, y: 13}
+    - name: toin_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23}
+        - {x: -17, y: 20}
+        - {x: -17, y: -19}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 15}
+        - {x: 3, y: 23}
+    - name: toin_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: 1}
+        - {x: -15, y: -6}
+        - {x: -16, y: -27}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 15}
+        - {x: 7, y: 20}
+    - name: toin_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: -10, y: 22}
+        - {x: -17, y: 16}
+        - {x: -17, y: -17}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 4}
+        - {x: 15, y: 13}
+    - name: toin_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 22}
+        - {x: -8, y: 22}
+        - {x: -17, y: 14}
+        - {x: -17, y: -21}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 4}
+        - {x: 15, y: 13}
+    - name: toin_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 22}
+        - {x: -8, y: 22}
+        - {x: -17, y: 14}
+        - {x: -17, y: -19}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 4}
+        - {x: 15, y: 13}
+    - name: toin_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 22}
+        - {x: -15, y: 22}
+        - {x: -17, y: 16}
+        - {x: -17, y: -25}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 4}
+        - {x: 15, y: 13}
+    - name: toin_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19}
+        - {x: -13, y: 19}
+        - {x: -22, y: 7}
+        - {x: -22, y: -19}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -31}
+        - {x: 32, y: -9}
+        - {x: 32, y: 3}
+        - {x: 15, y: 13}
+    - name: toin_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -15, y: 13}
+        - {x: -22, y: -13}
+        - {x: -22, y: -26}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 11, y: -31}
+        - {x: 23, y: -8}
+        - {x: 23, y: 17}
+        - {x: 17, y: 19}
+    - name: toin_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -17, y: 11}
+        - {x: -17, y: -32}
+        - {x: 12, y: -32}
+        - {x: 28, y: -21}
+        - {x: 28, y: 16}
+        - {x: 27, y: 19}
+    - name: toin_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 20}
+        - {x: -12, y: 20}
+        - {x: -18, y: 9}
+        - {x: -18, y: -32}
+        - {x: 16, y: -32}
+        - {x: 26, y: -13}
+        - {x: 30, y: -2}
+        - {x: 30, y: 18}
+    - name: toin_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 2}
+        - {x: -18, y: -13}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 29, y: -22}
+        - {x: 29, y: -3}
+        - {x: 21, y: 18}
+        - {x: 8, y: 25}
+        - {x: -3, y: 25}
+        - {x: -14, y: 12}
+    - name: toin_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 32, y: -20}
+        - {x: 32, y: 16}
+        - {x: 20, y: 27}
+        - {x: -4, y: 27}
+        - {x: -15, y: 17}
+    - name: toin_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 29}
+        - {x: -1, y: 29}
+        - {x: -16, y: 19}
+        - {x: -16, y: -28}
+        - {x: -15, y: -31}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -30}
+        - {x: 32, y: -1}
+        - {x: 32, y: 9}
+    - name: toin_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 25}
+        - {x: 11, y: 26}
+        - {x: -5, y: 26}
+        - {x: -19, y: 20}
+        - {x: -19, y: -32}
+        - {x: 14, y: -32}
+        - {x: 30, y: -5}
+        - {x: 30, y: 5}
+    - name: toin_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 6}
+        - {x: 10, y: 24}
+        - {x: -7, y: 24}
+        - {x: -21, y: 8}
+        - {x: -21, y: -22}
+        - {x: -18, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -30}
+        - {x: 22, y: -12}
+        - {x: 27, y: -1}
+    - name: toin_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 25}
+        - {x: -18, y: 10}
+        - {x: -18, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -17}
+        - {x: 21, y: 16}
+        - {x: 10, y: 25}
+    - name: toin_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -17, y: 11}
+        - {x: -17, y: -29}
+        - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -23}
+        - {x: 21, y: 15}
+        - {x: 18, y: 25}
+    - name: toin_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 25}
+        - {x: -4, y: 25}
+        - {x: -15, y: 13}
+        - {x: -15, y: -18}
+        - {x: -13, y: -30}
+        - {x: -10, y: -32}
+        - {x: 3, y: -32}
+        - {x: 11, y: -31}
+        - {x: 21, y: -22}
+        - {x: 21, y: 12}
+    - name: toin_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 25}
+        - {x: -17, y: 11}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 26, y: -17}
+        - {x: 26, y: 0}
+        - {x: 15, y: 25}
+    - name: toin_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: -16, y: -32}
+        - {x: 20, y: -32}
+        - {x: 21, y: -31}
+        - {x: 21, y: 6}
+        - {x: 13, y: 20}
+    - name: toin_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 9}
+        - {x: -16, y: -26}
+        - {x: -9, y: -32}
+        - {x: 16, y: -32}
+        - {x: 23, y: -18}
+        - {x: 23, y: -5}
+        - {x: 20, y: 14}
+    - name: toin_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 8}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 22, y: -21}
+        - {x: 22, y: 0}
+        - {x: 20, y: 8}
+    - name: toin_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 3}
+        - {x: 9, y: 8}
+        - {x: -7, y: 8}
+        - {x: -15, y: -2}
+        - {x: -15, y: -29}
+        - {x: -12, y: -31}
+        - {x: 18, y: -31}
+        - {x: 22, y: -18}
+        - {x: 22, y: -6}
+    - name: toin_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 2}
+        - {x: -16, y: -15}
+        - {x: -16, y: -31}
+        - {x: 24, y: -31}
+        - {x: 25, y: -29}
+        - {x: 25, y: -15}
+        - {x: 15, y: 2}
+    - name: toin_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 6}
+        - {x: -16, y: 6}
+        - {x: -16, y: -32}
+        - {x: 23, y: -32}
+        - {x: 27, y: -19}
+        - {x: 27, y: -12}
+        - {x: 22, y: 1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
